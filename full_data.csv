@@ -1,0 +1,1260 @@
+visit_id,patient_id,visit_date,symptom_score,diagnosis,outcome,name,age,gender,department
+1,1,2025-09-24,2,Normal,Recovered,Jacob Crawford,56,Female,PPT
+2,1,2025-07-11,2,Mild,Recovered,Jacob Crawford,56,Female,PPT
+3,1,2025-09-15,1,Severe,Recovered,Jacob Crawford,56,Female,PPT
+4,1,2025-04-30,3,Normal,Recovered,Jacob Crawford,56,Female,PPT
+5,2,2025-06-04,6,Mild,Recovered,Christian Webb,69,Male,PPT
+6,3,2025-07-25,8,Severe,Referral,Autumn Manning,46,Female,PPT
+7,3,2025-06-26,9,Mild,Referral,Autumn Manning,46,Female,PPT
+8,4,2024-12-23,7,Mild,Referral,Rachel Hawkins,32,Male,PPT
+9,4,2025-09-26,4,Mild,Recovered,Rachel Hawkins,32,Male,PPT
+10,4,2025-09-18,6,Mild,Recovered,Rachel Hawkins,32,Male,PPT
+11,5,2024-12-09,5,Severe,Recovered,Rodney West,60,Male,TB Focal Point
+12,5,2025-06-23,8,Severe,Referral,Rodney West,60,Male,TB Focal Point
+13,5,2025-09-02,1,Severe,Recovered,Rodney West,60,Male,TB Focal Point
+14,5,2025-01-02,1,Normal,Recovered,Rodney West,60,Male,TB Focal Point
+15,6,2025-02-15,6,Severe,Recovered,Frank Jones,25,Female,ENT
+16,6,2025-07-28,2,Mild,Recovered,Frank Jones,25,Female,ENT
+17,6,2025-07-12,5,Severe,Recovered,Frank Jones,25,Female,ENT
+18,7,2024-10-13,1,Mild,Recovered,Dennis Mercer,78,Female,ENT
+19,7,2025-05-13,7,Normal,Referral,Dennis Mercer,78,Female,ENT
+20,8,2025-08-12,1,Mild,Recovered,Shawn Clark,38,Female,TB Focal Point
+21,8,2024-10-31,4,Mild,Recovered,Shawn Clark,38,Female,TB Focal Point
+22,9,2024-11-23,9,Mild,Referral,Kevin Baker,56,Male,ENT
+23,9,2025-03-11,1,Normal,Recovered,Kevin Baker,56,Male,ENT
+24,10,2025-09-02,4,Severe,Recovered,Spencer Murray,75,Female,PPT
+25,10,2025-01-28,6,Severe,Recovered,Spencer Murray,75,Female,PPT
+26,11,2025-02-14,6,Normal,Recovered,David Prince,36,Male,ENT
+27,11,2025-04-30,8,Mild,Referral,David Prince,36,Male,ENT
+28,11,2025-09-29,1,Severe,Recovered,David Prince,36,Male,ENT
+29,11,2025-07-11,7,Normal,Referral,David Prince,36,Male,ENT
+30,12,2025-03-12,1,Severe,Recovered,Brad Clark,40,Male,PPT
+31,13,2025-03-14,7,Normal,Referral,Rachael Fischer,28,Male,TB Focal Point
+32,13,2025-09-08,3,Mild,Recovered,Rachael Fischer,28,Male,TB Focal Point
+33,13,2025-06-30,8,Severe,Referral,Rachael Fischer,28,Male,TB Focal Point
+34,13,2025-02-24,3,Normal,Recovered,Rachael Fischer,28,Male,TB Focal Point
+35,14,2025-01-31,1,Severe,Recovered,Erin Thomas,28,Female,ENT
+36,15,2025-01-17,8,Severe,Referral,Randall Boyd,41,Female,TB Focal Point
+37,15,2025-08-21,3,Severe,Recovered,Randall Boyd,41,Female,TB Focal Point
+38,15,2024-11-17,2,Severe,Recovered,Randall Boyd,41,Female,TB Focal Point
+39,16,2025-07-19,1,Normal,Recovered,Andrew Trujillo,70,Male,ENT
+40,16,2025-06-17,3,Mild,Recovered,Andrew Trujillo,70,Male,ENT
+41,16,2025-09-04,2,Normal,Recovered,Andrew Trujillo,70,Male,ENT
+42,16,2024-10-07,2,Normal,Recovered,Andrew Trujillo,70,Male,ENT
+43,17,2025-08-08,6,Normal,Recovered,Erin Morrison,53,Male,PPT
+44,17,2025-04-05,1,Mild,Recovered,Erin Morrison,53,Male,PPT
+45,18,2025-01-21,2,Severe,Recovered,Michael Robinson,57,Female,TB Focal Point
+46,18,2025-05-06,6,Severe,Recovered,Michael Robinson,57,Female,TB Focal Point
+47,19,2025-09-19,3,Severe,Recovered,James Foster,41,Male,ENT
+48,20,2025-08-19,4,Mild,Recovered,Paul Young,20,Female,PPT
+49,20,2025-05-20,1,Severe,Recovered,Paul Young,20,Female,PPT
+50,21,2024-10-02,8,Mild,Referral,Rachel Hammond,39,Male,TB Focal Point
+51,21,2025-01-20,7,Severe,Referral,Rachel Hammond,39,Male,TB Focal Point
+52,22,2025-07-22,7,Severe,Referral,Jason Li,70,Female,TB Focal Point
+53,22,2025-02-10,3,Normal,Recovered,Jason Li,70,Female,TB Focal Point
+54,22,2025-07-03,3,Mild,Recovered,Jason Li,70,Female,TB Focal Point
+55,23,2025-08-03,2,Normal,Recovered,Gerald Goodwin,19,Male,ENT
+56,24,2025-05-18,1,Normal,Recovered,Robert Werner,41,Female,ENT
+57,24,2024-12-16,7,Normal,Referral,Robert Werner,41,Female,ENT
+58,24,2025-04-15,7,Mild,Referral,Robert Werner,41,Female,ENT
+59,24,2024-11-19,2,Mild,Recovered,Robert Werner,41,Female,ENT
+60,25,2025-02-08,7,Severe,Referral,Brandi Guerra,61,Male,ENT
+61,25,2025-05-08,8,Normal,Referral,Brandi Guerra,61,Male,ENT
+62,26,2025-03-04,1,Severe,Recovered,Sarah Hart,47,Female,PPT
+63,26,2025-02-24,9,Normal,Referral,Sarah Hart,47,Female,PPT
+64,26,2025-04-23,7,Mild,Referral,Sarah Hart,47,Female,PPT
+65,26,2024-12-28,3,Mild,Recovered,Sarah Hart,47,Female,PPT
+66,27,2025-03-11,8,Mild,Referral,Clayton Sexton,55,Female,ENT
+67,27,2025-01-25,7,Normal,Referral,Clayton Sexton,55,Female,ENT
+68,27,2025-03-22,8,Mild,Referral,Clayton Sexton,55,Female,ENT
+69,28,2025-03-18,6,Normal,Recovered,Jeffrey Johnson,19,Male,TB Focal Point
+70,28,2025-07-04,9,Severe,Referral,Jeffrey Johnson,19,Male,TB Focal Point
+71,29,2024-10-08,5,Normal,Recovered,Amy Silva,77,Male,TB Focal Point
+72,29,2025-03-01,3,Severe,Recovered,Amy Silva,77,Male,TB Focal Point
+73,30,2025-02-27,3,Normal,Recovered,Michael Harris,38,Female,ENT
+74,30,2025-02-21,1,Severe,Recovered,Michael Harris,38,Female,ENT
+75,30,2024-12-07,8,Mild,Referral,Michael Harris,38,Female,ENT
+76,30,2025-06-21,2,Severe,Recovered,Michael Harris,38,Female,ENT
+77,31,2025-01-14,3,Mild,Recovered,Lori Gilmore,50,Male,ENT
+78,32,2024-10-10,8,Mild,Referral,Patrick Miller,29,Female,TB Focal Point
+79,32,2024-10-07,8,Severe,Referral,Patrick Miller,29,Female,TB Focal Point
+80,32,2025-07-22,4,Normal,Recovered,Patrick Miller,29,Female,TB Focal Point
+81,32,2024-11-24,4,Normal,Recovered,Patrick Miller,29,Female,TB Focal Point
+82,33,2025-09-18,5,Normal,Recovered,Daniel Reyes,75,Male,PPT
+83,34,2024-12-08,6,Normal,Recovered,Nicholas Flynn,39,Female,ENT
+84,35,2024-12-13,5,Normal,Recovered,Dr. Victoria Zavala,78,Female,ENT
+85,35,2025-03-29,7,Mild,Referral,Dr. Victoria Zavala,78,Female,ENT
+86,35,2024-10-05,2,Normal,Recovered,Dr. Victoria Zavala,78,Female,ENT
+87,36,2025-05-27,7,Mild,Referral,Mark Rosario,61,Female,TB Focal Point
+88,36,2025-03-16,7,Mild,Referral,Mark Rosario,61,Female,TB Focal Point
+89,37,2025-06-03,1,Mild,Recovered,Terry Barnett,42,Female,ENT
+90,37,2025-03-30,7,Severe,Referral,Terry Barnett,42,Female,ENT
+91,38,2024-11-01,5,Severe,Recovered,Lisa Brown,66,Female,PPT
+92,38,2024-12-25,3,Mild,Recovered,Lisa Brown,66,Female,PPT
+93,38,2024-10-27,3,Severe,Recovered,Lisa Brown,66,Female,PPT
+94,39,2025-07-18,4,Normal,Recovered,John Erickson,44,Female,TB Focal Point
+95,39,2025-06-02,2,Normal,Recovered,John Erickson,44,Female,TB Focal Point
+96,39,2025-09-07,2,Mild,Recovered,John Erickson,44,Female,TB Focal Point
+97,39,2025-09-16,1,Normal,Recovered,John Erickson,44,Female,TB Focal Point
+98,40,2025-09-19,5,Mild,Recovered,Anna Foley,76,Male,ENT
+99,41,2024-10-25,4,Mild,Recovered,William Hamilton,59,Male,TB Focal Point
+100,41,2025-05-14,2,Normal,Recovered,William Hamilton,59,Male,TB Focal Point
+101,42,2025-08-25,3,Severe,Recovered,Elizabeth White,45,Male,ENT
+102,43,2025-01-25,7,Normal,Referral,Daniel Pearson,77,Female,ENT
+103,43,2025-09-21,7,Normal,Referral,Daniel Pearson,77,Female,ENT
+104,43,2024-10-07,4,Mild,Recovered,Daniel Pearson,77,Female,ENT
+105,44,2024-10-04,5,Mild,Recovered,Katrina Graham,33,Female,ENT
+106,44,2024-11-27,5,Mild,Recovered,Katrina Graham,33,Female,ENT
+107,44,2025-07-23,6,Mild,Recovered,Katrina Graham,33,Female,ENT
+108,45,2025-08-03,9,Severe,Referral,Calvin Walker,32,Female,PPT
+109,45,2025-03-02,2,Severe,Recovered,Calvin Walker,32,Female,PPT
+110,45,2025-02-01,5,Severe,Recovered,Calvin Walker,32,Female,PPT
+111,45,2025-01-19,3,Mild,Recovered,Calvin Walker,32,Female,PPT
+112,46,2025-09-20,4,Mild,Recovered,Levi Pitts,79,Female,PPT
+113,47,2025-04-20,6,Mild,Recovered,Samantha Jimenez,79,Male,TB Focal Point
+114,47,2024-10-27,8,Severe,Referral,Samantha Jimenez,79,Male,TB Focal Point
+115,48,2025-04-16,1,Mild,Recovered,Donald Hall,64,Male,ENT
+116,49,2025-05-07,8,Normal,Referral,Kendra Jones,79,Female,ENT
+117,49,2025-07-18,7,Normal,Referral,Kendra Jones,79,Female,ENT
+118,49,2025-03-04,1,Mild,Recovered,Kendra Jones,79,Female,ENT
+119,50,2025-05-07,2,Normal,Recovered,James Reynolds,68,Male,PPT
+120,50,2025-07-27,3,Normal,Recovered,James Reynolds,68,Male,PPT
+121,50,2025-04-13,1,Severe,Recovered,James Reynolds,68,Male,PPT
+122,51,2025-02-05,9,Mild,Referral,Samantha Bowen,61,Male,ENT
+123,51,2025-06-23,8,Mild,Referral,Samantha Bowen,61,Male,ENT
+124,51,2025-01-03,2,Severe,Recovered,Samantha Bowen,61,Male,ENT
+125,51,2024-10-08,9,Normal,Referral,Samantha Bowen,61,Male,ENT
+126,52,2025-05-19,7,Normal,Referral,Tina Molina,72,Female,PPT
+127,53,2024-12-27,9,Mild,Referral,Gary Day,69,Male,ENT
+128,54,2025-08-14,6,Normal,Recovered,Steven Gray,74,Female,TB Focal Point
+129,54,2024-11-08,6,Severe,Recovered,Steven Gray,74,Female,TB Focal Point
+130,54,2024-12-24,4,Severe,Recovered,Steven Gray,74,Female,TB Focal Point
+131,54,2025-05-14,2,Mild,Recovered,Steven Gray,74,Female,TB Focal Point
+132,55,2025-09-10,7,Severe,Referral,Glenn Rhodes,20,Male,ENT
+133,55,2025-06-16,5,Severe,Recovered,Glenn Rhodes,20,Male,ENT
+134,56,2025-03-14,6,Mild,Recovered,Debra Mendoza,54,Female,ENT
+135,56,2025-08-24,2,Severe,Recovered,Debra Mendoza,54,Female,ENT
+136,57,2025-04-15,5,Severe,Recovered,Rebecca Myers,68,Female,PPT
+137,57,2025-06-26,4,Severe,Recovered,Rebecca Myers,68,Female,PPT
+138,57,2025-08-18,9,Normal,Referral,Rebecca Myers,68,Female,PPT
+139,58,2025-07-17,6,Mild,Recovered,Amanda Snyder,24,Female,ENT
+140,58,2025-05-31,2,Mild,Recovered,Amanda Snyder,24,Female,ENT
+141,58,2025-07-16,1,Mild,Recovered,Amanda Snyder,24,Female,ENT
+142,59,2025-04-08,5,Normal,Recovered,William Gonzales,38,Female,ENT
+143,60,2025-04-18,9,Normal,Referral,Jenna Williams,26,Male,PPT
+144,60,2025-07-08,6,Mild,Recovered,Jenna Williams,26,Male,PPT
+145,61,2025-01-22,7,Normal,Referral,Mr. Mark King,56,Female,TB Focal Point
+146,62,2025-08-18,5,Mild,Recovered,Michael Harris,35,Female,TB Focal Point
+147,62,2025-06-29,6,Normal,Recovered,Michael Harris,35,Female,TB Focal Point
+148,62,2025-01-09,5,Severe,Recovered,Michael Harris,35,Female,TB Focal Point
+149,62,2025-08-26,9,Severe,Referral,Michael Harris,35,Female,TB Focal Point
+150,63,2025-01-26,6,Mild,Recovered,Alexander Watson,21,Female,PPT
+151,63,2024-12-29,8,Normal,Referral,Alexander Watson,21,Female,PPT
+152,63,2025-04-13,2,Normal,Recovered,Alexander Watson,21,Female,PPT
+153,63,2025-05-17,9,Severe,Referral,Alexander Watson,21,Female,PPT
+154,64,2025-06-10,5,Severe,Recovered,Linda Monroe,42,Male,PPT
+155,64,2025-07-14,7,Normal,Referral,Linda Monroe,42,Male,PPT
+156,64,2024-10-30,1,Normal,Recovered,Linda Monroe,42,Male,PPT
+157,65,2024-12-12,5,Normal,Recovered,Albert Lowery,77,Female,PPT
+158,66,2025-06-07,2,Normal,Recovered,Jerry Key,31,Male,PPT
+159,66,2025-03-06,6,Normal,Recovered,Jerry Key,31,Male,PPT
+160,66,2025-09-06,1,Normal,Recovered,Jerry Key,31,Male,PPT
+161,66,2025-03-10,3,Mild,Recovered,Jerry Key,31,Male,PPT
+162,67,2024-10-23,5,Normal,Recovered,Rebecca Moss,67,Female,PPT
+163,67,2025-01-11,4,Severe,Recovered,Rebecca Moss,67,Female,PPT
+164,67,2025-08-16,3,Mild,Recovered,Rebecca Moss,67,Female,PPT
+165,68,2025-01-12,5,Normal,Recovered,Victor Miller,75,Male,TB Focal Point
+166,68,2024-10-04,8,Severe,Referral,Victor Miller,75,Male,TB Focal Point
+167,68,2025-08-01,4,Mild,Recovered,Victor Miller,75,Male,TB Focal Point
+168,68,2025-07-20,1,Severe,Recovered,Victor Miller,75,Male,TB Focal Point
+169,69,2025-03-31,7,Normal,Referral,Jared Olson,26,Male,TB Focal Point
+170,69,2025-02-12,8,Normal,Referral,Jared Olson,26,Male,TB Focal Point
+171,69,2025-08-09,3,Normal,Recovered,Jared Olson,26,Male,TB Focal Point
+172,70,2024-11-12,6,Normal,Recovered,Lindsey Cordova,43,Female,PPT
+173,71,2024-11-08,2,Mild,Recovered,Laura Murphy,70,Male,ENT
+174,72,2025-01-14,7,Mild,Referral,Charles Luna,19,Female,PPT
+175,72,2025-09-22,8,Severe,Referral,Charles Luna,19,Female,PPT
+176,72,2025-04-13,6,Normal,Recovered,Charles Luna,19,Female,PPT
+177,72,2025-06-17,6,Severe,Recovered,Charles Luna,19,Female,PPT
+178,73,2025-08-17,5,Mild,Recovered,Sarah Hicks,37,Female,ENT
+179,73,2025-01-21,8,Normal,Referral,Sarah Hicks,37,Female,ENT
+180,73,2025-01-15,1,Normal,Recovered,Sarah Hicks,37,Female,ENT
+181,74,2025-08-28,4,Mild,Recovered,Erica Spencer,45,Female,PPT
+182,74,2025-05-27,4,Mild,Recovered,Erica Spencer,45,Female,PPT
+183,74,2024-11-09,3,Mild,Recovered,Erica Spencer,45,Female,PPT
+184,74,2025-05-22,3,Mild,Recovered,Erica Spencer,45,Female,PPT
+185,75,2025-03-03,4,Mild,Recovered,William Espinoza,64,Male,PPT
+186,75,2024-10-29,1,Normal,Recovered,William Espinoza,64,Male,PPT
+187,75,2025-03-04,2,Mild,Recovered,William Espinoza,64,Male,PPT
+188,75,2025-03-31,9,Normal,Referral,William Espinoza,64,Male,PPT
+189,76,2025-04-29,2,Normal,Recovered,Jeremiah Miller,77,Male,TB Focal Point
+190,76,2025-01-23,5,Mild,Recovered,Jeremiah Miller,77,Male,TB Focal Point
+191,76,2025-09-18,9,Mild,Referral,Jeremiah Miller,77,Male,TB Focal Point
+192,76,2024-12-26,9,Normal,Referral,Jeremiah Miller,77,Male,TB Focal Point
+193,77,2025-02-11,8,Mild,Referral,Krystal Mills,24,Female,ENT
+194,78,2025-03-04,1,Mild,Recovered,Becky Hernandez,61,Female,ENT
+195,78,2024-12-26,1,Mild,Recovered,Becky Hernandez,61,Female,ENT
+196,79,2025-08-14,9,Severe,Referral,James Rivera,78,Male,TB Focal Point
+197,79,2025-06-18,8,Normal,Referral,James Rivera,78,Male,TB Focal Point
+198,79,2025-07-11,9,Severe,Referral,James Rivera,78,Male,TB Focal Point
+199,79,2025-02-28,7,Mild,Referral,James Rivera,78,Male,TB Focal Point
+200,80,2025-02-26,3,Severe,Recovered,Laura Myers,25,Female,TB Focal Point
+201,81,2024-12-28,3,Mild,Recovered,Ana Larsen,64,Female,TB Focal Point
+202,81,2025-02-01,2,Severe,Recovered,Ana Larsen,64,Female,TB Focal Point
+203,81,2024-12-21,5,Mild,Recovered,Ana Larsen,64,Female,TB Focal Point
+204,81,2025-01-26,3,Severe,Recovered,Ana Larsen,64,Female,TB Focal Point
+205,82,2024-11-16,6,Severe,Recovered,Taylor Mason,52,Female,TB Focal Point
+206,82,2025-09-15,2,Severe,Recovered,Taylor Mason,52,Female,TB Focal Point
+207,82,2025-02-23,3,Normal,Recovered,Taylor Mason,52,Female,TB Focal Point
+208,82,2025-01-02,5,Severe,Recovered,Taylor Mason,52,Female,TB Focal Point
+209,83,2025-05-02,1,Normal,Recovered,Heather Harris,31,Male,ENT
+210,84,2025-03-18,1,Mild,Recovered,Debra Schultz,34,Male,ENT
+211,85,2025-01-17,9,Severe,Referral,Mark Wright,53,Male,PPT
+212,85,2025-10-01,7,Mild,Referral,Mark Wright,53,Male,PPT
+213,85,2025-02-12,1,Mild,Recovered,Mark Wright,53,Male,PPT
+214,85,2025-03-13,8,Severe,Referral,Mark Wright,53,Male,PPT
+215,86,2025-09-03,3,Normal,Recovered,Erin Estrada,67,Female,PPT
+216,86,2025-05-17,8,Severe,Referral,Erin Estrada,67,Female,PPT
+217,86,2025-07-19,5,Mild,Recovered,Erin Estrada,67,Female,PPT
+218,86,2025-01-27,1,Mild,Recovered,Erin Estrada,67,Female,PPT
+219,87,2025-04-14,7,Severe,Referral,Douglas Jones,57,Female,TB Focal Point
+220,87,2025-03-03,5,Normal,Recovered,Douglas Jones,57,Female,TB Focal Point
+221,87,2025-01-22,6,Normal,Recovered,Douglas Jones,57,Female,TB Focal Point
+222,87,2024-11-17,6,Mild,Recovered,Douglas Jones,57,Female,TB Focal Point
+223,88,2024-12-06,8,Mild,Referral,Emily Wood,21,Female,TB Focal Point
+224,89,2024-10-09,9,Normal,Referral,William Hughes,19,Male,TB Focal Point
+225,90,2024-10-24,2,Severe,Recovered,Patricia Smith,79,Female,PPT
+226,90,2024-10-31,9,Mild,Referral,Patricia Smith,79,Female,PPT
+227,90,2025-05-04,9,Normal,Referral,Patricia Smith,79,Female,PPT
+228,91,2024-12-25,7,Mild,Referral,Meagan Watts,23,Female,PPT
+229,91,2024-12-26,1,Severe,Recovered,Meagan Watts,23,Female,PPT
+230,91,2025-04-28,7,Normal,Referral,Meagan Watts,23,Female,PPT
+231,92,2024-10-11,5,Mild,Recovered,Whitney Huffman,71,Female,PPT
+232,92,2025-09-26,6,Severe,Recovered,Whitney Huffman,71,Female,PPT
+233,92,2025-02-21,7,Mild,Referral,Whitney Huffman,71,Female,PPT
+234,93,2025-04-13,5,Severe,Recovered,Brenda Bryant,59,Female,PPT
+235,94,2025-05-11,7,Severe,Referral,Eric Lopez,21,Male,PPT
+236,94,2024-10-14,9,Normal,Referral,Eric Lopez,21,Male,PPT
+237,94,2024-12-15,3,Severe,Recovered,Eric Lopez,21,Male,PPT
+238,95,2025-07-18,8,Mild,Referral,Sean Johnson,71,Male,PPT
+239,95,2025-04-07,2,Severe,Recovered,Sean Johnson,71,Male,PPT
+240,95,2024-10-19,7,Severe,Referral,Sean Johnson,71,Male,PPT
+241,96,2024-12-09,2,Normal,Recovered,Nicholas Acevedo,46,Female,PPT
+242,96,2025-04-17,4,Severe,Recovered,Nicholas Acevedo,46,Female,PPT
+243,96,2025-01-16,7,Severe,Referral,Nicholas Acevedo,46,Female,PPT
+244,97,2025-08-28,3,Mild,Recovered,Julie Schultz,35,Male,TB Focal Point
+245,97,2025-03-22,2,Normal,Recovered,Julie Schultz,35,Male,TB Focal Point
+246,97,2025-07-16,7,Normal,Referral,Julie Schultz,35,Male,TB Focal Point
+247,97,2025-08-23,1,Normal,Recovered,Julie Schultz,35,Male,TB Focal Point
+248,98,2025-01-03,8,Severe,Referral,Leslie Miller,43,Male,TB Focal Point
+249,99,2025-05-16,3,Normal,Recovered,Richard Mclaughlin,61,Female,TB Focal Point
+250,99,2025-10-02,2,Severe,Recovered,Richard Mclaughlin,61,Female,TB Focal Point
+251,99,2025-07-17,3,Severe,Recovered,Richard Mclaughlin,61,Female,TB Focal Point
+252,99,2025-09-13,5,Mild,Recovered,Richard Mclaughlin,61,Female,TB Focal Point
+253,100,2025-04-30,8,Mild,Referral,Suzanne Smith,51,Female,TB Focal Point
+254,101,2025-02-27,7,Mild,Referral,Gerald Matthews,27,Male,PPT
+255,101,2025-02-20,7,Mild,Referral,Gerald Matthews,27,Male,PPT
+256,101,2025-01-05,7,Mild,Referral,Gerald Matthews,27,Male,PPT
+257,101,2025-08-12,8,Severe,Referral,Gerald Matthews,27,Male,PPT
+258,102,2025-03-28,1,Severe,Recovered,Luke Woods,79,Female,ENT
+259,102,2024-11-02,4,Normal,Recovered,Luke Woods,79,Female,ENT
+260,102,2025-02-28,6,Severe,Recovered,Luke Woods,79,Female,ENT
+261,102,2025-02-22,9,Severe,Referral,Luke Woods,79,Female,ENT
+262,103,2025-05-23,2,Mild,Recovered,Melody Garcia,53,Male,PPT
+263,103,2025-04-11,1,Severe,Recovered,Melody Garcia,53,Male,PPT
+264,103,2025-07-08,2,Mild,Recovered,Melody Garcia,53,Male,PPT
+265,103,2025-04-27,7,Normal,Referral,Melody Garcia,53,Male,PPT
+266,104,2025-05-20,3,Normal,Recovered,Nicholas Stone PhD,31,Female,ENT
+267,104,2025-06-09,2,Severe,Recovered,Nicholas Stone PhD,31,Female,ENT
+268,104,2024-10-23,7,Normal,Referral,Nicholas Stone PhD,31,Female,ENT
+269,104,2025-09-25,2,Severe,Recovered,Nicholas Stone PhD,31,Female,ENT
+270,105,2025-04-16,3,Normal,Recovered,Daniel Wright,48,Male,TB Focal Point
+271,105,2024-11-13,7,Mild,Referral,Daniel Wright,48,Male,TB Focal Point
+272,105,2025-03-22,4,Mild,Recovered,Daniel Wright,48,Male,TB Focal Point
+273,106,2024-11-27,1,Mild,Recovered,Joseph Patel,65,Female,PPT
+274,106,2025-06-14,5,Mild,Recovered,Joseph Patel,65,Female,PPT
+275,107,2025-06-24,9,Severe,Referral,Ms. Melanie Pierce,32,Male,TB Focal Point
+276,107,2025-09-19,8,Normal,Referral,Ms. Melanie Pierce,32,Male,TB Focal Point
+277,107,2025-05-13,9,Severe,Referral,Ms. Melanie Pierce,32,Male,TB Focal Point
+278,107,2024-12-10,9,Mild,Referral,Ms. Melanie Pierce,32,Male,TB Focal Point
+279,108,2025-07-26,7,Severe,Referral,Benjamin Underwood,25,Male,PPT
+280,108,2025-02-22,4,Normal,Recovered,Benjamin Underwood,25,Male,PPT
+281,109,2025-03-22,5,Severe,Recovered,David Fields,31,Male,TB Focal Point
+282,109,2025-08-24,1,Normal,Recovered,David Fields,31,Male,TB Focal Point
+283,109,2024-10-12,1,Severe,Recovered,David Fields,31,Male,TB Focal Point
+284,109,2025-05-05,3,Normal,Recovered,David Fields,31,Male,TB Focal Point
+285,110,2025-02-02,8,Normal,Referral,Charles Stone,40,Female,ENT
+286,110,2025-05-02,2,Mild,Recovered,Charles Stone,40,Female,ENT
+287,110,2025-03-04,4,Normal,Recovered,Charles Stone,40,Female,ENT
+288,110,2025-02-17,2,Mild,Recovered,Charles Stone,40,Female,ENT
+289,111,2024-12-07,5,Mild,Recovered,William Ruiz,77,Male,ENT
+290,111,2024-12-27,9,Mild,Referral,William Ruiz,77,Male,ENT
+291,111,2025-01-04,1,Severe,Recovered,William Ruiz,77,Male,ENT
+292,111,2024-10-10,5,Severe,Recovered,William Ruiz,77,Male,ENT
+293,112,2024-11-26,9,Severe,Referral,Angela Horne,74,Male,ENT
+294,112,2024-10-02,1,Severe,Recovered,Angela Horne,74,Male,ENT
+295,112,2025-09-24,9,Normal,Referral,Angela Horne,74,Male,ENT
+296,113,2025-05-27,8,Normal,Referral,Barbara Patton,79,Female,PPT
+297,113,2024-11-16,4,Severe,Recovered,Barbara Patton,79,Female,PPT
+298,113,2025-03-03,5,Normal,Recovered,Barbara Patton,79,Female,PPT
+299,114,2025-07-18,5,Normal,Recovered,Dillon Pierce,57,Female,ENT
+300,114,2025-06-11,6,Mild,Recovered,Dillon Pierce,57,Female,ENT
+301,114,2024-10-19,7,Mild,Referral,Dillon Pierce,57,Female,ENT
+302,114,2025-02-22,8,Mild,Referral,Dillon Pierce,57,Female,ENT
+303,115,2025-01-03,8,Mild,Referral,Raymond Powers,38,Male,PPT
+304,115,2025-07-12,2,Normal,Recovered,Raymond Powers,38,Male,PPT
+305,115,2024-12-19,9,Severe,Referral,Raymond Powers,38,Male,PPT
+306,115,2024-10-11,7,Normal,Referral,Raymond Powers,38,Male,PPT
+307,116,2025-06-13,4,Normal,Recovered,Stephen Flowers,33,Male,ENT
+308,116,2025-03-02,4,Normal,Recovered,Stephen Flowers,33,Male,ENT
+309,116,2025-07-09,8,Mild,Referral,Stephen Flowers,33,Male,ENT
+310,117,2025-03-20,4,Mild,Recovered,Kimberly Lyons,62,Female,ENT
+311,117,2025-07-20,6,Mild,Recovered,Kimberly Lyons,62,Female,ENT
+312,117,2025-04-25,5,Severe,Recovered,Kimberly Lyons,62,Female,ENT
+313,118,2024-11-02,3,Normal,Recovered,Kelly Holland,35,Female,PPT
+314,118,2025-07-17,2,Severe,Recovered,Kelly Holland,35,Female,PPT
+315,119,2025-09-26,9,Mild,Referral,Jessica Ali,64,Female,PPT
+316,119,2025-05-29,9,Severe,Referral,Jessica Ali,64,Female,PPT
+317,119,2025-09-09,1,Normal,Recovered,Jessica Ali,64,Female,PPT
+318,120,2024-11-01,3,Normal,Recovered,Joseph Williamson,70,Female,ENT
+319,120,2024-11-17,8,Mild,Referral,Joseph Williamson,70,Female,ENT
+320,120,2024-11-05,6,Mild,Recovered,Joseph Williamson,70,Female,ENT
+321,120,2025-07-07,5,Severe,Recovered,Joseph Williamson,70,Female,ENT
+322,121,2025-06-28,5,Mild,Recovered,Kevin Weiss,41,Female,PPT
+323,121,2025-04-12,6,Mild,Recovered,Kevin Weiss,41,Female,PPT
+324,121,2024-12-17,7,Normal,Referral,Kevin Weiss,41,Female,PPT
+325,121,2025-02-28,1,Mild,Recovered,Kevin Weiss,41,Female,PPT
+326,122,2025-06-09,9,Mild,Referral,Lisa Davidson,43,Male,ENT
+327,122,2025-03-01,3,Normal,Recovered,Lisa Davidson,43,Male,ENT
+328,123,2025-01-04,4,Normal,Recovered,Jessica Mcclure,42,Female,PPT
+329,123,2024-11-23,1,Severe,Recovered,Jessica Mcclure,42,Female,PPT
+330,123,2024-11-21,3,Mild,Recovered,Jessica Mcclure,42,Female,PPT
+331,123,2025-09-08,2,Normal,Recovered,Jessica Mcclure,42,Female,PPT
+332,124,2024-12-09,2,Severe,Recovered,Kayla Maldonado,77,Male,TB Focal Point
+333,124,2024-12-20,1,Severe,Recovered,Kayla Maldonado,77,Male,TB Focal Point
+334,125,2025-07-03,8,Mild,Referral,Jenny Parks,77,Male,TB Focal Point
+335,125,2025-03-08,3,Mild,Recovered,Jenny Parks,77,Male,TB Focal Point
+336,126,2025-09-25,3,Severe,Recovered,Nathan Harris,77,Male,TB Focal Point
+337,126,2024-12-20,6,Normal,Recovered,Nathan Harris,77,Male,TB Focal Point
+338,126,2024-10-24,8,Severe,Referral,Nathan Harris,77,Male,TB Focal Point
+339,126,2025-05-11,9,Mild,Referral,Nathan Harris,77,Male,TB Focal Point
+340,127,2025-09-05,9,Normal,Referral,Rachel Young,62,Female,TB Focal Point
+341,127,2025-09-19,4,Normal,Recovered,Rachel Young,62,Female,TB Focal Point
+342,128,2025-08-18,5,Severe,Recovered,Stephen Wood,58,Male,TB Focal Point
+343,128,2025-08-09,2,Mild,Recovered,Stephen Wood,58,Male,TB Focal Point
+344,128,2025-04-29,9,Severe,Referral,Stephen Wood,58,Male,TB Focal Point
+345,129,2025-04-03,8,Severe,Referral,Joshua Hancock,46,Male,ENT
+346,129,2025-03-16,3,Severe,Recovered,Joshua Hancock,46,Male,ENT
+347,130,2025-08-12,9,Normal,Referral,Andrea Ruiz,32,Female,TB Focal Point
+348,130,2025-04-12,3,Normal,Recovered,Andrea Ruiz,32,Female,TB Focal Point
+349,130,2025-04-19,9,Mild,Referral,Andrea Ruiz,32,Female,TB Focal Point
+350,130,2025-07-31,2,Mild,Recovered,Andrea Ruiz,32,Female,TB Focal Point
+351,131,2025-01-16,9,Severe,Referral,Angel Smith,62,Male,TB Focal Point
+352,131,2025-06-14,8,Severe,Referral,Angel Smith,62,Male,TB Focal Point
+353,131,2025-04-07,9,Severe,Referral,Angel Smith,62,Male,TB Focal Point
+354,131,2025-05-30,5,Mild,Recovered,Angel Smith,62,Male,TB Focal Point
+355,132,2025-07-29,2,Normal,Recovered,Connie Hayes,18,Male,TB Focal Point
+356,132,2025-03-13,8,Normal,Referral,Connie Hayes,18,Male,TB Focal Point
+357,132,2024-12-31,6,Severe,Recovered,Connie Hayes,18,Male,TB Focal Point
+358,133,2025-09-21,8,Severe,Referral,Kristen Young,42,Female,TB Focal Point
+359,133,2025-08-31,5,Severe,Recovered,Kristen Young,42,Female,TB Focal Point
+360,133,2025-07-02,2,Severe,Recovered,Kristen Young,42,Female,TB Focal Point
+361,133,2025-03-12,6,Mild,Recovered,Kristen Young,42,Female,TB Focal Point
+362,134,2024-11-30,5,Normal,Recovered,Samuel Parker,24,Male,PPT
+363,134,2025-06-22,5,Severe,Recovered,Samuel Parker,24,Male,PPT
+364,135,2025-08-28,1,Mild,Recovered,Morgan Rivera,26,Male,ENT
+365,136,2025-08-31,2,Severe,Recovered,Lisa Garcia,41,Male,TB Focal Point
+366,136,2025-07-03,8,Severe,Referral,Lisa Garcia,41,Male,TB Focal Point
+367,136,2025-07-10,3,Normal,Recovered,Lisa Garcia,41,Male,TB Focal Point
+368,136,2024-12-29,3,Severe,Recovered,Lisa Garcia,41,Male,TB Focal Point
+369,137,2024-12-15,8,Normal,Referral,Anthony Mayer,18,Female,TB Focal Point
+370,137,2024-10-21,8,Normal,Referral,Anthony Mayer,18,Female,TB Focal Point
+371,138,2025-03-13,2,Normal,Recovered,Eric Garcia,61,Female,TB Focal Point
+372,138,2025-07-30,8,Mild,Referral,Eric Garcia,61,Female,TB Focal Point
+373,139,2025-02-28,1,Mild,Recovered,Timothy Morgan,25,Female,ENT
+374,139,2025-01-15,6,Normal,Recovered,Timothy Morgan,25,Female,ENT
+375,139,2025-07-08,8,Severe,Referral,Timothy Morgan,25,Female,ENT
+376,140,2024-11-09,3,Normal,Recovered,Beth Stone,41,Male,PPT
+377,141,2025-03-16,8,Severe,Referral,Daryl Thomas,28,Male,ENT
+378,142,2024-10-22,1,Normal,Recovered,Derek Walker,68,Female,PPT
+379,142,2025-02-06,9,Severe,Referral,Derek Walker,68,Female,PPT
+380,142,2024-10-24,9,Mild,Referral,Derek Walker,68,Female,PPT
+381,142,2025-09-14,5,Severe,Recovered,Derek Walker,68,Female,PPT
+382,143,2024-10-15,4,Normal,Recovered,Jessica Newman,34,Male,TB Focal Point
+383,143,2025-06-05,6,Mild,Recovered,Jessica Newman,34,Male,TB Focal Point
+384,143,2025-06-03,7,Severe,Referral,Jessica Newman,34,Male,TB Focal Point
+385,143,2025-06-18,5,Severe,Recovered,Jessica Newman,34,Male,TB Focal Point
+386,144,2025-09-10,9,Severe,Referral,Michelle Callahan,25,Male,TB Focal Point
+387,144,2025-06-13,3,Severe,Recovered,Michelle Callahan,25,Male,TB Focal Point
+388,145,2025-04-07,7,Severe,Referral,Mrs. Jennifer Lowery,52,Female,ENT
+389,146,2024-12-02,5,Mild,Recovered,James Acevedo,52,Female,ENT
+390,146,2025-08-29,7,Mild,Referral,James Acevedo,52,Female,ENT
+391,146,2024-11-14,2,Mild,Recovered,James Acevedo,52,Female,ENT
+392,146,2025-02-02,4,Mild,Recovered,James Acevedo,52,Female,ENT
+393,147,2024-11-18,2,Normal,Recovered,Madison Mcdonald,50,Male,PPT
+394,147,2025-08-08,7,Mild,Referral,Madison Mcdonald,50,Male,PPT
+395,147,2025-06-16,2,Severe,Recovered,Madison Mcdonald,50,Male,PPT
+396,147,2025-04-27,1,Severe,Recovered,Madison Mcdonald,50,Male,PPT
+397,148,2025-04-14,9,Mild,Referral,Gregory Graham,76,Male,PPT
+398,148,2024-10-07,1,Severe,Recovered,Gregory Graham,76,Male,PPT
+399,148,2024-12-18,8,Mild,Referral,Gregory Graham,76,Male,PPT
+400,148,2024-12-18,2,Severe,Recovered,Gregory Graham,76,Male,PPT
+401,149,2025-05-03,8,Normal,Referral,Cameron Stone,22,Male,ENT
+402,149,2025-02-16,3,Normal,Recovered,Cameron Stone,22,Male,ENT
+403,150,2025-04-07,6,Mild,Recovered,Charles Strickland,59,Female,PPT
+404,150,2025-09-12,3,Mild,Recovered,Charles Strickland,59,Female,PPT
+405,150,2025-04-24,7,Mild,Referral,Charles Strickland,59,Female,PPT
+406,150,2025-02-17,9,Severe,Referral,Charles Strickland,59,Female,PPT
+407,151,2024-11-21,2,Mild,Recovered,Kimberly Cardenas,56,Female,ENT
+408,152,2024-10-19,5,Normal,Recovered,Barry Mitchell,75,Female,PPT
+409,152,2024-10-21,6,Severe,Recovered,Barry Mitchell,75,Female,PPT
+410,152,2025-01-04,4,Mild,Recovered,Barry Mitchell,75,Female,PPT
+411,152,2025-06-07,4,Severe,Recovered,Barry Mitchell,75,Female,PPT
+412,153,2024-12-04,4,Severe,Recovered,Holly Taylor,58,Female,ENT
+413,154,2025-06-03,2,Mild,Recovered,Zachary Guzman,45,Male,ENT
+414,154,2025-06-11,4,Severe,Recovered,Zachary Guzman,45,Male,ENT
+415,155,2025-02-06,1,Normal,Recovered,William Robertson,24,Female,ENT
+416,155,2025-09-23,6,Normal,Recovered,William Robertson,24,Female,ENT
+417,156,2024-11-11,1,Severe,Recovered,Carl Bowen,26,Female,PPT
+418,156,2025-09-30,6,Mild,Recovered,Carl Bowen,26,Female,PPT
+419,157,2025-07-13,1,Severe,Recovered,Thomas Ward,25,Female,PPT
+420,157,2024-10-03,6,Normal,Recovered,Thomas Ward,25,Female,PPT
+421,157,2025-06-27,8,Severe,Referral,Thomas Ward,25,Female,PPT
+422,157,2024-12-19,2,Severe,Recovered,Thomas Ward,25,Female,PPT
+423,158,2025-04-05,2,Normal,Recovered,Tammy Curtis,29,Female,PPT
+424,159,2025-03-13,4,Severe,Recovered,Caroline Hayes,51,Female,ENT
+425,159,2024-12-11,3,Severe,Recovered,Caroline Hayes,51,Female,ENT
+426,159,2025-05-07,4,Mild,Recovered,Caroline Hayes,51,Female,ENT
+427,159,2025-01-24,7,Mild,Referral,Caroline Hayes,51,Female,ENT
+428,160,2025-09-27,1,Normal,Recovered,Thomas Martinez,50,Male,PPT
+429,160,2024-11-23,6,Normal,Recovered,Thomas Martinez,50,Male,PPT
+430,161,2024-10-16,3,Normal,Recovered,Clayton Anderson,65,Male,PPT
+431,161,2025-07-21,7,Mild,Referral,Clayton Anderson,65,Male,PPT
+432,162,2025-07-10,2,Normal,Recovered,Sabrina Salas,72,Female,ENT
+433,162,2025-06-02,2,Normal,Recovered,Sabrina Salas,72,Female,ENT
+434,162,2024-12-21,4,Normal,Recovered,Sabrina Salas,72,Female,ENT
+435,162,2025-07-11,1,Mild,Recovered,Sabrina Salas,72,Female,ENT
+436,163,2025-03-25,3,Severe,Recovered,Renee Burton,40,Male,TB Focal Point
+437,164,2024-12-05,9,Normal,Referral,Ivan Johnson,79,Female,ENT
+438,165,2025-01-01,7,Severe,Referral,Patricia Klein,41,Female,PPT
+439,165,2025-02-06,7,Normal,Referral,Patricia Klein,41,Female,PPT
+440,165,2024-10-14,4,Severe,Recovered,Patricia Klein,41,Female,PPT
+441,165,2024-12-10,2,Mild,Recovered,Patricia Klein,41,Female,PPT
+442,166,2025-04-17,4,Mild,Recovered,David Thompson,54,Male,ENT
+443,166,2025-05-03,6,Normal,Recovered,David Thompson,54,Male,ENT
+444,166,2025-05-10,3,Severe,Recovered,David Thompson,54,Male,ENT
+445,166,2024-12-01,1,Mild,Recovered,David Thompson,54,Male,ENT
+446,167,2025-07-28,8,Normal,Referral,Michael Nelson,52,Male,TB Focal Point
+447,168,2025-08-14,5,Normal,Recovered,Michael Rodriguez,61,Female,ENT
+448,169,2025-07-05,5,Mild,Recovered,Amber Delacruz,57,Female,PPT
+449,170,2025-04-30,4,Mild,Recovered,David Washington,39,Female,TB Focal Point
+450,171,2025-03-21,6,Normal,Recovered,Meghan Kerr,44,Male,PPT
+451,171,2025-01-23,3,Severe,Recovered,Meghan Kerr,44,Male,PPT
+452,171,2025-09-07,9,Severe,Referral,Meghan Kerr,44,Male,PPT
+453,171,2025-08-25,5,Severe,Recovered,Meghan Kerr,44,Male,PPT
+454,172,2025-05-19,3,Normal,Recovered,Manuel Flynn,52,Female,TB Focal Point
+455,172,2025-01-20,1,Mild,Recovered,Manuel Flynn,52,Female,TB Focal Point
+456,173,2024-12-07,6,Normal,Recovered,Daniel Smith,18,Female,TB Focal Point
+457,174,2025-06-16,2,Mild,Recovered,Sue Davis,52,Female,ENT
+458,174,2025-07-19,3,Severe,Recovered,Sue Davis,52,Female,ENT
+459,174,2025-03-31,1,Severe,Recovered,Sue Davis,52,Female,ENT
+460,175,2025-04-02,9,Mild,Referral,Jesse Rodriguez,54,Male,ENT
+461,175,2025-04-15,8,Mild,Referral,Jesse Rodriguez,54,Male,ENT
+462,176,2025-02-09,2,Normal,Recovered,Ronnie Hernandez,64,Female,PPT
+463,177,2025-01-18,8,Severe,Referral,Richard Smith,31,Female,ENT
+464,177,2025-09-03,9,Normal,Referral,Richard Smith,31,Female,ENT
+465,178,2025-07-30,1,Normal,Recovered,Joseph Silva,20,Male,ENT
+466,178,2025-05-07,5,Normal,Recovered,Joseph Silva,20,Male,ENT
+467,178,2025-05-11,8,Severe,Referral,Joseph Silva,20,Male,ENT
+468,179,2024-12-15,2,Normal,Recovered,Miss Deanna Golden,18,Female,TB Focal Point
+469,179,2025-09-08,4,Normal,Recovered,Miss Deanna Golden,18,Female,TB Focal Point
+470,180,2025-02-13,7,Normal,Referral,Michael Humphrey,22,Female,ENT
+471,180,2025-06-08,3,Normal,Recovered,Michael Humphrey,22,Female,ENT
+472,181,2025-06-07,5,Normal,Recovered,Michelle Hogan,43,Male,TB Focal Point
+473,181,2025-09-15,8,Normal,Referral,Michelle Hogan,43,Male,TB Focal Point
+474,181,2025-06-14,3,Severe,Recovered,Michelle Hogan,43,Male,TB Focal Point
+475,181,2025-09-29,4,Normal,Recovered,Michelle Hogan,43,Male,TB Focal Point
+476,182,2025-01-30,9,Mild,Referral,William Roberts,72,Female,TB Focal Point
+477,182,2025-01-26,7,Normal,Referral,William Roberts,72,Female,TB Focal Point
+478,183,2025-09-28,1,Normal,Recovered,Peter Stuart,31,Male,TB Focal Point
+479,184,2024-12-21,4,Severe,Recovered,Amy Collins,56,Male,PPT
+480,184,2025-06-04,4,Severe,Recovered,Amy Collins,56,Male,PPT
+481,184,2025-06-26,9,Mild,Referral,Amy Collins,56,Male,PPT
+482,184,2025-01-25,6,Mild,Recovered,Amy Collins,56,Male,PPT
+483,185,2025-08-25,9,Severe,Referral,Melissa Mccormick,44,Female,PPT
+484,186,2025-04-17,6,Severe,Recovered,David Taylor,26,Female,PPT
+485,186,2025-05-20,6,Normal,Recovered,David Taylor,26,Female,PPT
+486,187,2025-07-31,5,Severe,Recovered,Jennifer Garrett,32,Female,TB Focal Point
+487,188,2025-01-14,5,Mild,Recovered,Heather Fisher,32,Female,PPT
+488,189,2025-02-06,2,Normal,Recovered,Keith Brewer,43,Male,PPT
+489,189,2025-09-17,8,Mild,Referral,Keith Brewer,43,Male,PPT
+490,190,2025-04-27,8,Normal,Referral,Annette Glover,59,Female,ENT
+491,190,2024-11-28,1,Severe,Recovered,Annette Glover,59,Female,ENT
+492,190,2025-06-18,8,Mild,Referral,Annette Glover,59,Female,ENT
+493,191,2024-10-14,5,Normal,Recovered,Alyssa Braun,77,Male,PPT
+494,192,2025-02-27,2,Normal,Recovered,Andrea Long,30,Female,PPT
+495,193,2025-04-22,2,Severe,Recovered,Amy Griffin,68,Female,TB Focal Point
+496,193,2025-07-01,6,Severe,Recovered,Amy Griffin,68,Female,TB Focal Point
+497,194,2024-11-18,9,Severe,Referral,Daniel Turner,49,Female,TB Focal Point
+498,194,2024-12-02,1,Mild,Recovered,Daniel Turner,49,Female,TB Focal Point
+499,194,2025-09-19,6,Normal,Recovered,Daniel Turner,49,Female,TB Focal Point
+500,194,2025-06-20,9,Severe,Referral,Daniel Turner,49,Female,TB Focal Point
+501,195,2025-01-30,8,Mild,Referral,John Williams,56,Male,TB Focal Point
+502,195,2024-12-22,6,Mild,Recovered,John Williams,56,Male,TB Focal Point
+503,196,2024-12-12,3,Mild,Recovered,Victoria Porter,66,Female,TB Focal Point
+504,196,2025-05-28,8,Severe,Referral,Victoria Porter,66,Female,TB Focal Point
+505,197,2025-04-01,9,Severe,Referral,Anna Copeland,69,Female,TB Focal Point
+506,197,2024-12-28,1,Normal,Recovered,Anna Copeland,69,Female,TB Focal Point
+507,198,2025-05-30,9,Normal,Referral,John Walker,78,Female,TB Focal Point
+508,199,2025-05-14,6,Severe,Recovered,Kimberly Lucero,49,Female,PPT
+509,200,2025-07-01,6,Mild,Recovered,Mrs. Jasmine Chaney,21,Male,TB Focal Point
+510,200,2025-04-04,4,Mild,Recovered,Mrs. Jasmine Chaney,21,Male,TB Focal Point
+511,200,2025-01-04,1,Mild,Recovered,Mrs. Jasmine Chaney,21,Male,TB Focal Point
+512,201,2025-03-18,8,Normal,Referral,Andrea Hatfield,47,Female,TB Focal Point
+513,201,2025-05-15,2,Mild,Recovered,Andrea Hatfield,47,Female,TB Focal Point
+514,202,2025-01-17,1,Normal,Recovered,Edward Duarte,54,Male,ENT
+515,202,2025-03-30,2,Normal,Recovered,Edward Duarte,54,Male,ENT
+516,202,2025-02-12,1,Mild,Recovered,Edward Duarte,54,Male,ENT
+517,203,2025-03-15,1,Mild,Recovered,Samantha Clayton,40,Male,PPT
+518,203,2025-02-25,9,Severe,Referral,Samantha Clayton,40,Male,PPT
+519,203,2025-04-05,1,Severe,Recovered,Samantha Clayton,40,Male,PPT
+520,203,2025-02-10,4,Mild,Recovered,Samantha Clayton,40,Male,PPT
+521,204,2024-12-13,6,Normal,Recovered,Aaron Jones,56,Male,PPT
+522,204,2025-04-07,7,Normal,Referral,Aaron Jones,56,Male,PPT
+523,205,2025-03-18,2,Normal,Recovered,Tina Green,62,Male,PPT
+524,205,2025-04-05,6,Normal,Recovered,Tina Green,62,Male,PPT
+525,205,2025-06-30,7,Normal,Referral,Tina Green,62,Male,PPT
+526,206,2025-09-27,2,Severe,Recovered,Isaac Morgan,32,Male,TB Focal Point
+527,206,2025-03-04,2,Mild,Recovered,Isaac Morgan,32,Male,TB Focal Point
+528,207,2025-03-25,7,Severe,Referral,Deborah Escobar,60,Male,TB Focal Point
+529,207,2024-10-11,1,Normal,Recovered,Deborah Escobar,60,Male,TB Focal Point
+530,207,2025-09-03,8,Normal,Referral,Deborah Escobar,60,Male,TB Focal Point
+531,208,2024-11-27,3,Normal,Recovered,Lawrence Key,46,Female,TB Focal Point
+532,209,2024-11-12,6,Normal,Recovered,Benjamin Williams,53,Male,ENT
+533,209,2025-05-20,9,Mild,Referral,Benjamin Williams,53,Male,ENT
+534,210,2025-03-02,6,Normal,Recovered,Danielle Spencer,30,Male,TB Focal Point
+535,211,2025-07-28,9,Mild,Referral,Jacob Tran,49,Male,ENT
+536,212,2025-06-09,7,Normal,Referral,Roy Gonzalez,24,Female,PPT
+537,212,2025-06-09,9,Mild,Referral,Roy Gonzalez,24,Female,PPT
+538,213,2025-05-20,2,Severe,Recovered,Scott Farmer,76,Female,TB Focal Point
+539,213,2024-11-06,8,Normal,Referral,Scott Farmer,76,Female,TB Focal Point
+540,213,2025-08-26,8,Mild,Referral,Scott Farmer,76,Female,TB Focal Point
+541,213,2025-08-23,2,Severe,Recovered,Scott Farmer,76,Female,TB Focal Point
+542,214,2025-06-02,4,Normal,Recovered,Charles Harmon,68,Male,ENT
+543,214,2025-05-25,7,Normal,Referral,Charles Harmon,68,Male,ENT
+544,214,2024-11-28,4,Normal,Recovered,Charles Harmon,68,Male,ENT
+545,214,2024-11-17,4,Mild,Recovered,Charles Harmon,68,Male,ENT
+546,215,2025-08-24,6,Mild,Recovered,Felicia Jackson,39,Female,ENT
+547,215,2025-04-02,6,Severe,Recovered,Felicia Jackson,39,Female,ENT
+548,215,2025-05-23,3,Mild,Recovered,Felicia Jackson,39,Female,ENT
+549,215,2024-12-06,9,Mild,Referral,Felicia Jackson,39,Female,ENT
+550,216,2024-10-05,2,Normal,Recovered,Aaron Jones,45,Male,TB Focal Point
+551,216,2025-09-05,6,Normal,Recovered,Aaron Jones,45,Male,TB Focal Point
+552,216,2025-08-26,7,Normal,Referral,Aaron Jones,45,Male,TB Focal Point
+553,217,2025-06-13,9,Normal,Referral,Aaron Snyder,19,Male,PPT
+554,217,2025-05-04,3,Normal,Recovered,Aaron Snyder,19,Male,PPT
+555,217,2025-08-28,3,Normal,Recovered,Aaron Snyder,19,Male,PPT
+556,217,2024-10-31,7,Normal,Referral,Aaron Snyder,19,Male,PPT
+557,218,2025-08-11,4,Severe,Recovered,Shawn Boyd,59,Female,PPT
+558,218,2024-12-30,8,Severe,Referral,Shawn Boyd,59,Female,PPT
+559,219,2025-05-03,7,Severe,Referral,Kimberly Calderon,62,Male,PPT
+560,219,2025-07-05,5,Severe,Recovered,Kimberly Calderon,62,Male,PPT
+561,220,2025-02-23,7,Normal,Referral,Samantha Young,79,Female,ENT
+562,220,2025-05-30,3,Severe,Recovered,Samantha Young,79,Female,ENT
+563,220,2025-07-03,2,Normal,Recovered,Samantha Young,79,Female,ENT
+564,221,2024-12-18,6,Severe,Recovered,Daniel Carter,74,Female,ENT
+565,221,2025-08-22,2,Mild,Recovered,Daniel Carter,74,Female,ENT
+566,221,2025-03-24,3,Severe,Recovered,Daniel Carter,74,Female,ENT
+567,222,2024-10-16,6,Severe,Recovered,Katelyn Ramos,70,Male,ENT
+568,222,2025-05-24,5,Normal,Recovered,Katelyn Ramos,70,Male,ENT
+569,223,2025-07-25,8,Severe,Referral,Michael Palmer,23,Male,ENT
+570,223,2025-04-04,9,Mild,Referral,Michael Palmer,23,Male,ENT
+571,223,2025-06-11,3,Normal,Recovered,Michael Palmer,23,Male,ENT
+572,224,2025-09-25,3,Normal,Recovered,Christina Roberts,45,Female,PPT
+573,225,2025-02-22,3,Severe,Recovered,Heather Black,45,Male,TB Focal Point
+574,225,2025-01-04,6,Normal,Recovered,Heather Black,45,Male,TB Focal Point
+575,225,2024-10-29,1,Normal,Recovered,Heather Black,45,Male,TB Focal Point
+576,225,2025-01-21,7,Normal,Referral,Heather Black,45,Male,TB Focal Point
+577,226,2025-09-06,1,Normal,Recovered,David Johnson,61,Male,ENT
+578,226,2025-05-01,5,Normal,Recovered,David Johnson,61,Male,ENT
+579,227,2024-10-12,8,Normal,Referral,Gabriela Sullivan,61,Male,ENT
+580,227,2025-03-03,4,Mild,Recovered,Gabriela Sullivan,61,Male,ENT
+581,227,2025-09-06,5,Severe,Recovered,Gabriela Sullivan,61,Male,ENT
+582,227,2025-09-12,4,Mild,Recovered,Gabriela Sullivan,61,Male,ENT
+583,228,2025-05-11,4,Normal,Recovered,Monique Gilbert,37,Female,PPT
+584,229,2025-09-22,8,Normal,Referral,Elizabeth Ross,47,Female,TB Focal Point
+585,229,2025-03-13,2,Severe,Recovered,Elizabeth Ross,47,Female,TB Focal Point
+586,229,2025-05-21,1,Mild,Recovered,Elizabeth Ross,47,Female,TB Focal Point
+587,230,2025-04-21,3,Severe,Recovered,John Shaffer,79,Male,TB Focal Point
+588,231,2025-01-23,9,Mild,Referral,Brandon Hughes,28,Female,PPT
+589,231,2025-05-22,4,Normal,Recovered,Brandon Hughes,28,Female,PPT
+590,231,2025-08-18,5,Severe,Recovered,Brandon Hughes,28,Female,PPT
+591,231,2025-06-24,2,Severe,Recovered,Brandon Hughes,28,Female,PPT
+592,232,2025-07-17,4,Normal,Recovered,Regina Winters,75,Female,PPT
+593,233,2024-11-17,2,Severe,Recovered,Wendy Cruz,72,Female,TB Focal Point
+594,233,2025-09-08,2,Mild,Recovered,Wendy Cruz,72,Female,TB Focal Point
+595,233,2025-06-14,4,Mild,Recovered,Wendy Cruz,72,Female,TB Focal Point
+596,234,2024-12-20,6,Mild,Recovered,Kimberly Bryant,45,Female,ENT
+597,235,2025-01-11,7,Mild,Referral,April Wright,42,Female,TB Focal Point
+598,235,2024-10-06,3,Normal,Recovered,April Wright,42,Female,TB Focal Point
+599,235,2025-01-20,3,Severe,Recovered,April Wright,42,Female,TB Focal Point
+600,236,2025-09-14,6,Mild,Recovered,Anne Hays,56,Male,PPT
+601,237,2024-10-10,3,Normal,Recovered,Jose Hoffman,79,Male,ENT
+602,237,2025-02-09,2,Severe,Recovered,Jose Hoffman,79,Male,ENT
+603,237,2025-01-15,8,Severe,Referral,Jose Hoffman,79,Male,ENT
+604,238,2025-04-02,5,Normal,Recovered,Connie Thompson,50,Male,ENT
+605,239,2024-12-01,1,Normal,Recovered,Christopher Johnson,18,Female,PPT
+606,239,2025-07-15,3,Mild,Recovered,Christopher Johnson,18,Female,PPT
+607,240,2025-09-30,8,Severe,Referral,Patrick Bruce,74,Female,PPT
+608,240,2025-04-14,4,Severe,Recovered,Patrick Bruce,74,Female,PPT
+609,240,2024-12-06,7,Normal,Referral,Patrick Bruce,74,Female,PPT
+610,240,2025-01-04,2,Severe,Recovered,Patrick Bruce,74,Female,PPT
+611,241,2025-04-15,7,Mild,Referral,Angela Reynolds,44,Male,PPT
+612,241,2024-12-11,5,Severe,Recovered,Angela Reynolds,44,Male,PPT
+613,242,2025-03-11,5,Normal,Recovered,Erin Brennan,79,Female,TB Focal Point
+614,242,2025-04-04,6,Normal,Recovered,Erin Brennan,79,Female,TB Focal Point
+615,242,2024-10-20,9,Mild,Referral,Erin Brennan,79,Female,TB Focal Point
+616,242,2025-06-27,6,Mild,Recovered,Erin Brennan,79,Female,TB Focal Point
+617,243,2025-03-23,8,Severe,Referral,Audrey Lewis,74,Male,TB Focal Point
+618,243,2025-06-12,7,Severe,Referral,Audrey Lewis,74,Male,TB Focal Point
+619,244,2024-10-23,9,Normal,Referral,Jeffrey Campbell,69,Male,ENT
+620,244,2025-03-23,4,Mild,Recovered,Jeffrey Campbell,69,Male,ENT
+621,244,2024-12-03,2,Mild,Recovered,Jeffrey Campbell,69,Male,ENT
+622,244,2025-08-31,7,Mild,Referral,Jeffrey Campbell,69,Male,ENT
+623,245,2024-11-26,6,Severe,Recovered,Bradley Fields,30,Male,PPT
+624,245,2025-02-02,1,Mild,Recovered,Bradley Fields,30,Male,PPT
+625,245,2024-11-23,9,Normal,Referral,Bradley Fields,30,Male,PPT
+626,246,2025-07-16,9,Normal,Referral,Peter Nguyen,58,Female,ENT
+627,247,2025-08-05,2,Severe,Recovered,David Harmon,20,Female,ENT
+628,247,2025-01-30,3,Severe,Recovered,David Harmon,20,Female,ENT
+629,247,2025-03-16,5,Mild,Recovered,David Harmon,20,Female,ENT
+630,248,2024-12-20,5,Severe,Recovered,Jamie Perkins,56,Male,ENT
+631,248,2025-07-07,1,Normal,Recovered,Jamie Perkins,56,Male,ENT
+632,248,2024-11-16,8,Mild,Referral,Jamie Perkins,56,Male,ENT
+633,248,2024-10-16,8,Normal,Referral,Jamie Perkins,56,Male,ENT
+634,249,2025-05-01,4,Mild,Recovered,Daniel Jones,23,Male,ENT
+635,249,2025-06-22,7,Severe,Referral,Daniel Jones,23,Male,ENT
+636,249,2025-07-08,3,Mild,Recovered,Daniel Jones,23,Male,ENT
+637,249,2025-08-19,6,Mild,Recovered,Daniel Jones,23,Male,ENT
+638,250,2025-08-21,9,Normal,Referral,Jason Garcia,25,Male,PPT
+639,250,2024-10-04,1,Normal,Recovered,Jason Garcia,25,Male,PPT
+640,251,2024-12-29,5,Mild,Recovered,Marcus Atkinson,44,Male,ENT
+641,251,2024-11-17,4,Severe,Recovered,Marcus Atkinson,44,Male,ENT
+642,251,2024-11-30,8,Severe,Referral,Marcus Atkinson,44,Male,ENT
+643,251,2024-11-22,1,Normal,Recovered,Marcus Atkinson,44,Male,ENT
+644,252,2025-09-30,9,Severe,Referral,Daniel Hudson,26,Female,PPT
+645,252,2025-08-04,6,Normal,Recovered,Daniel Hudson,26,Female,PPT
+646,253,2025-01-29,4,Severe,Recovered,Linda Wilson,79,Female,PPT
+647,253,2025-07-26,9,Mild,Referral,Linda Wilson,79,Female,PPT
+648,253,2024-11-26,5,Normal,Recovered,Linda Wilson,79,Female,PPT
+649,254,2024-11-18,5,Normal,Recovered,Ryan Smith,54,Male,TB Focal Point
+650,255,2024-10-30,5,Mild,Recovered,Keith Evans,50,Male,PPT
+651,256,2025-02-20,1,Normal,Recovered,Susan Parker,68,Female,TB Focal Point
+652,256,2024-12-06,1,Severe,Recovered,Susan Parker,68,Female,TB Focal Point
+653,257,2025-03-07,8,Severe,Referral,Claire Gomez,59,Female,PPT
+654,257,2025-07-25,8,Normal,Referral,Claire Gomez,59,Female,PPT
+655,257,2025-05-17,6,Severe,Recovered,Claire Gomez,59,Female,PPT
+656,257,2024-10-28,4,Normal,Recovered,Claire Gomez,59,Female,PPT
+657,258,2025-01-11,2,Mild,Recovered,John Underwood,61,Male,PPT
+658,258,2024-10-02,2,Normal,Recovered,John Underwood,61,Male,PPT
+659,258,2025-02-24,9,Mild,Referral,John Underwood,61,Male,PPT
+660,259,2024-11-05,5,Severe,Recovered,Ann Beck,41,Male,PPT
+661,260,2025-01-02,4,Mild,Recovered,Heidi Schultz,32,Male,TB Focal Point
+662,260,2025-02-05,1,Severe,Recovered,Heidi Schultz,32,Male,TB Focal Point
+663,260,2025-02-20,7,Normal,Referral,Heidi Schultz,32,Male,TB Focal Point
+664,260,2025-09-16,3,Severe,Recovered,Heidi Schultz,32,Male,TB Focal Point
+665,261,2024-12-02,6,Normal,Recovered,Michael Huang,76,Female,TB Focal Point
+666,262,2025-01-08,5,Normal,Recovered,Kelly Mahoney,71,Female,ENT
+667,262,2024-12-05,5,Mild,Recovered,Kelly Mahoney,71,Female,ENT
+668,262,2024-10-07,5,Mild,Recovered,Kelly Mahoney,71,Female,ENT
+669,262,2025-06-17,1,Mild,Recovered,Kelly Mahoney,71,Female,ENT
+670,263,2025-05-09,1,Mild,Recovered,Stephen Harris,49,Female,TB Focal Point
+671,263,2024-11-11,3,Severe,Recovered,Stephen Harris,49,Female,TB Focal Point
+672,264,2024-11-20,4,Severe,Recovered,Erica Perez,49,Male,TB Focal Point
+673,264,2024-10-20,5,Severe,Recovered,Erica Perez,49,Male,TB Focal Point
+674,264,2025-03-10,2,Normal,Recovered,Erica Perez,49,Male,TB Focal Point
+675,265,2025-08-13,8,Severe,Referral,Christopher Johnson,41,Male,TB Focal Point
+676,265,2025-09-10,2,Severe,Recovered,Christopher Johnson,41,Male,TB Focal Point
+677,265,2025-10-01,9,Severe,Referral,Christopher Johnson,41,Male,TB Focal Point
+678,265,2025-03-15,2,Mild,Recovered,Christopher Johnson,41,Male,TB Focal Point
+679,266,2024-10-28,9,Severe,Referral,Nancy Jones,58,Female,TB Focal Point
+680,266,2024-10-12,7,Normal,Referral,Nancy Jones,58,Female,TB Focal Point
+681,266,2024-12-16,8,Mild,Referral,Nancy Jones,58,Female,TB Focal Point
+682,266,2024-10-23,2,Normal,Recovered,Nancy Jones,58,Female,TB Focal Point
+683,267,2025-02-16,7,Severe,Referral,Pamela Stevens,69,Female,ENT
+684,267,2024-11-30,6,Mild,Recovered,Pamela Stevens,69,Female,ENT
+685,267,2025-07-17,4,Normal,Recovered,Pamela Stevens,69,Female,ENT
+686,267,2025-07-08,7,Severe,Referral,Pamela Stevens,69,Female,ENT
+687,268,2025-08-16,4,Normal,Recovered,Alison Moore,66,Male,TB Focal Point
+688,268,2025-07-27,2,Normal,Recovered,Alison Moore,66,Male,TB Focal Point
+689,269,2025-07-16,7,Normal,Referral,Martha Wood,79,Female,PPT
+690,269,2025-07-27,8,Severe,Referral,Martha Wood,79,Female,PPT
+691,269,2025-01-23,2,Severe,Recovered,Martha Wood,79,Female,PPT
+692,270,2024-11-22,5,Normal,Recovered,Scott Edwards,66,Female,PPT
+693,270,2025-03-07,1,Mild,Recovered,Scott Edwards,66,Female,PPT
+694,270,2024-12-08,7,Mild,Referral,Scott Edwards,66,Female,PPT
+695,271,2025-05-28,8,Severe,Referral,Barbara Walker,75,Male,TB Focal Point
+696,272,2025-03-05,6,Severe,Recovered,Stacey Warner,69,Female,TB Focal Point
+697,273,2024-11-22,5,Severe,Recovered,Keith Todd,29,Male,PPT
+698,273,2025-02-03,6,Severe,Recovered,Keith Todd,29,Male,PPT
+699,273,2025-05-30,2,Severe,Recovered,Keith Todd,29,Male,PPT
+700,274,2025-05-09,1,Mild,Recovered,Jordan Lee,79,Male,PPT
+701,274,2025-03-10,7,Severe,Referral,Jordan Lee,79,Male,PPT
+702,275,2025-08-26,7,Normal,Referral,Edward Mccoy,56,Male,ENT
+703,275,2024-11-14,2,Normal,Recovered,Edward Mccoy,56,Male,ENT
+704,275,2024-10-22,2,Mild,Recovered,Edward Mccoy,56,Male,ENT
+705,275,2024-11-07,1,Normal,Recovered,Edward Mccoy,56,Male,ENT
+706,276,2025-01-08,8,Mild,Referral,Kimberly Collins,19,Male,PPT
+707,276,2025-05-31,8,Mild,Referral,Kimberly Collins,19,Male,PPT
+708,277,2024-10-31,1,Normal,Recovered,Jennifer Smith,20,Male,PPT
+709,278,2025-06-11,8,Severe,Referral,Jared Davies,66,Male,TB Focal Point
+710,278,2025-01-16,9,Normal,Referral,Jared Davies,66,Male,TB Focal Point
+711,279,2025-05-25,4,Normal,Recovered,Rachel Miranda,54,Male,PPT
+712,280,2025-03-18,1,Mild,Recovered,Lindsay Johnson,66,Female,ENT
+713,280,2024-11-23,1,Normal,Recovered,Lindsay Johnson,66,Female,ENT
+714,280,2025-02-28,3,Mild,Recovered,Lindsay Johnson,66,Female,ENT
+715,281,2024-10-28,5,Severe,Recovered,Dustin Downs,73,Male,PPT
+716,281,2025-02-11,5,Severe,Recovered,Dustin Downs,73,Male,PPT
+717,282,2024-10-31,9,Severe,Referral,Taylor Richardson,34,Male,TB Focal Point
+718,282,2025-03-16,2,Normal,Recovered,Taylor Richardson,34,Male,TB Focal Point
+719,282,2025-04-30,2,Mild,Recovered,Taylor Richardson,34,Male,TB Focal Point
+720,283,2025-03-15,6,Severe,Recovered,Alyssa Ramos,76,Female,TB Focal Point
+721,283,2025-02-15,9,Mild,Referral,Alyssa Ramos,76,Female,TB Focal Point
+722,284,2025-01-23,1,Mild,Recovered,Elizabeth Clark,66,Female,PPT
+723,284,2025-05-24,9,Severe,Referral,Elizabeth Clark,66,Female,PPT
+724,285,2025-06-11,9,Severe,Referral,Eric Edwards,19,Female,TB Focal Point
+725,286,2025-04-01,9,Mild,Referral,Christine Hunter,19,Male,ENT
+726,286,2024-10-31,5,Severe,Recovered,Christine Hunter,19,Male,ENT
+727,287,2025-01-07,9,Mild,Referral,Kenneth Blair,45,Female,ENT
+728,287,2025-01-15,4,Mild,Recovered,Kenneth Blair,45,Female,ENT
+729,287,2025-05-13,2,Severe,Recovered,Kenneth Blair,45,Female,ENT
+730,288,2025-09-27,6,Normal,Recovered,Timothy Sanders MD,71,Male,PPT
+731,288,2025-02-16,4,Severe,Recovered,Timothy Sanders MD,71,Male,PPT
+732,288,2025-03-22,6,Normal,Recovered,Timothy Sanders MD,71,Male,PPT
+733,288,2025-09-04,3,Mild,Recovered,Timothy Sanders MD,71,Male,PPT
+734,289,2025-07-28,6,Mild,Recovered,David Jimenez,40,Male,PPT
+735,289,2025-01-31,2,Normal,Recovered,David Jimenez,40,Male,PPT
+736,289,2024-10-25,2,Mild,Recovered,David Jimenez,40,Male,PPT
+737,290,2024-10-08,9,Normal,Referral,Anthony Johnson,54,Male,PPT
+738,290,2024-10-09,7,Normal,Referral,Anthony Johnson,54,Male,PPT
+739,290,2025-02-23,3,Mild,Recovered,Anthony Johnson,54,Male,PPT
+740,290,2025-04-28,1,Normal,Recovered,Anthony Johnson,54,Male,PPT
+741,291,2025-01-10,8,Severe,Referral,Brenda Hall,49,Male,TB Focal Point
+742,291,2024-12-14,6,Severe,Recovered,Brenda Hall,49,Male,TB Focal Point
+743,291,2025-04-26,7,Mild,Referral,Brenda Hall,49,Male,TB Focal Point
+744,292,2024-11-23,9,Mild,Referral,Mason Bailey,50,Female,ENT
+745,292,2025-09-30,5,Normal,Recovered,Mason Bailey,50,Female,ENT
+746,293,2024-10-19,1,Normal,Recovered,Anthony Jackson,18,Female,ENT
+747,293,2024-10-13,7,Normal,Referral,Anthony Jackson,18,Female,ENT
+748,293,2025-09-07,5,Normal,Recovered,Anthony Jackson,18,Female,ENT
+749,294,2025-06-17,3,Severe,Recovered,Michael Grant,36,Male,TB Focal Point
+750,294,2025-01-15,9,Severe,Referral,Michael Grant,36,Male,TB Focal Point
+751,295,2025-06-15,1,Mild,Recovered,Rhonda Morales,79,Male,ENT
+752,296,2025-04-16,1,Normal,Recovered,Jennifer Richards,19,Male,PPT
+753,296,2025-06-07,1,Normal,Recovered,Jennifer Richards,19,Male,PPT
+754,296,2025-05-04,3,Mild,Recovered,Jennifer Richards,19,Male,PPT
+755,297,2025-03-04,6,Normal,Recovered,William Bailey,70,Female,PPT
+756,297,2025-03-20,3,Normal,Recovered,William Bailey,70,Female,PPT
+757,297,2025-07-25,8,Normal,Referral,William Bailey,70,Female,PPT
+758,298,2025-06-09,2,Normal,Recovered,Dr. Glen Cooper,61,Male,PPT
+759,299,2024-10-11,9,Normal,Referral,Deanna Lee,43,Male,ENT
+760,299,2024-11-09,3,Mild,Recovered,Deanna Lee,43,Male,ENT
+761,299,2024-10-23,5,Normal,Recovered,Deanna Lee,43,Male,ENT
+762,299,2025-10-02,8,Mild,Referral,Deanna Lee,43,Male,ENT
+763,300,2025-03-07,2,Normal,Recovered,Nicholas Li,49,Female,PPT
+764,300,2025-07-23,6,Severe,Recovered,Nicholas Li,49,Female,PPT
+765,301,2025-05-01,5,Severe,Recovered,Christopher Olson,23,Female,TB Focal Point
+766,301,2025-07-29,9,Severe,Referral,Christopher Olson,23,Female,TB Focal Point
+767,301,2025-03-31,5,Severe,Recovered,Christopher Olson,23,Female,TB Focal Point
+768,301,2025-03-03,2,Mild,Recovered,Christopher Olson,23,Female,TB Focal Point
+769,302,2025-07-25,5,Mild,Recovered,Michelle Jackson,49,Male,TB Focal Point
+770,303,2025-07-05,4,Normal,Recovered,Jerry Austin,72,Female,ENT
+771,304,2025-02-04,7,Severe,Referral,Jose Morgan,21,Female,TB Focal Point
+772,304,2025-06-30,6,Mild,Recovered,Jose Morgan,21,Female,TB Focal Point
+773,304,2025-01-12,2,Normal,Recovered,Jose Morgan,21,Female,TB Focal Point
+774,305,2025-01-21,5,Normal,Recovered,Joshua Henderson,72,Male,TB Focal Point
+775,305,2024-12-22,7,Mild,Referral,Joshua Henderson,72,Male,TB Focal Point
+776,306,2024-11-14,7,Severe,Referral,Nicole Duncan,28,Female,ENT
+777,307,2025-05-17,5,Normal,Recovered,Jared Smith,73,Male,PPT
+778,307,2024-12-21,9,Severe,Referral,Jared Smith,73,Male,PPT
+779,308,2024-11-07,4,Severe,Recovered,Ian Stokes,76,Female,PPT
+780,309,2025-03-20,3,Severe,Recovered,Jason Miller,34,Male,PPT
+781,310,2025-05-11,4,Normal,Recovered,Glen Burns,55,Male,ENT
+782,310,2025-07-15,5,Severe,Recovered,Glen Burns,55,Male,ENT
+783,310,2025-04-09,6,Normal,Recovered,Glen Burns,55,Male,ENT
+784,311,2025-06-25,3,Severe,Recovered,Andrew Russell,41,Male,TB Focal Point
+785,312,2024-12-03,2,Normal,Recovered,Christine King,22,Female,PPT
+786,312,2025-02-28,4,Severe,Recovered,Christine King,22,Female,PPT
+787,312,2025-10-02,5,Mild,Recovered,Christine King,22,Female,PPT
+788,313,2025-04-17,4,Severe,Recovered,Audrey Robinson,69,Male,PPT
+789,314,2025-01-08,3,Severe,Recovered,Manuel Watson,51,Female,ENT
+790,314,2025-05-08,8,Normal,Referral,Manuel Watson,51,Female,ENT
+791,314,2025-09-12,4,Normal,Recovered,Manuel Watson,51,Female,ENT
+792,314,2025-03-04,2,Severe,Recovered,Manuel Watson,51,Female,ENT
+793,315,2025-07-06,2,Mild,Recovered,Michael Carter,23,Male,PPT
+794,315,2025-06-14,1,Mild,Recovered,Michael Carter,23,Male,PPT
+795,316,2025-06-25,4,Normal,Recovered,Edwin Cooper,39,Male,ENT
+796,316,2025-09-03,9,Mild,Referral,Edwin Cooper,39,Male,ENT
+797,316,2024-12-08,7,Severe,Referral,Edwin Cooper,39,Male,ENT
+798,317,2025-01-03,7,Normal,Referral,Kelly Wood,28,Female,TB Focal Point
+799,317,2025-09-12,7,Severe,Referral,Kelly Wood,28,Female,TB Focal Point
+800,317,2024-12-05,8,Normal,Referral,Kelly Wood,28,Female,TB Focal Point
+801,318,2025-02-26,1,Normal,Recovered,Charles Dorsey,65,Male,ENT
+802,319,2025-04-15,8,Normal,Referral,Miranda Willis,33,Male,ENT
+803,319,2024-10-13,4,Normal,Recovered,Miranda Willis,33,Male,ENT
+804,319,2025-04-26,4,Mild,Recovered,Miranda Willis,33,Male,ENT
+805,319,2025-09-11,4,Severe,Recovered,Miranda Willis,33,Male,ENT
+806,320,2025-09-28,6,Severe,Recovered,Eric Evans,50,Female,ENT
+807,320,2025-01-30,7,Severe,Referral,Eric Evans,50,Female,ENT
+808,320,2025-08-24,6,Normal,Recovered,Eric Evans,50,Female,ENT
+809,321,2025-06-26,1,Mild,Recovered,Joan Martinez,26,Male,ENT
+810,322,2025-01-12,8,Severe,Referral,Carrie White,77,Male,TB Focal Point
+811,323,2025-05-20,7,Mild,Referral,Cassandra Lewis,76,Male,TB Focal Point
+812,324,2025-05-25,6,Normal,Recovered,Lisa Keith,23,Male,PPT
+813,325,2025-01-02,6,Severe,Recovered,Steve Prince,33,Female,TB Focal Point
+814,325,2024-10-15,5,Mild,Recovered,Steve Prince,33,Female,TB Focal Point
+815,325,2025-04-03,6,Normal,Recovered,Steve Prince,33,Female,TB Focal Point
+816,326,2024-11-03,9,Mild,Referral,Melissa Todd,46,Female,TB Focal Point
+817,326,2025-05-10,9,Severe,Referral,Melissa Todd,46,Female,TB Focal Point
+818,326,2025-06-04,8,Severe,Referral,Melissa Todd,46,Female,TB Focal Point
+819,327,2024-10-10,9,Normal,Referral,Scott Nelson,20,Male,PPT
+820,327,2024-11-25,8,Normal,Referral,Scott Nelson,20,Male,PPT
+821,327,2025-07-12,8,Normal,Referral,Scott Nelson,20,Male,PPT
+822,328,2024-11-02,1,Mild,Recovered,Wendy Johnson,37,Female,TB Focal Point
+823,329,2025-03-16,5,Mild,Recovered,Daniel Osborn,77,Male,ENT
+824,329,2025-08-09,4,Mild,Recovered,Daniel Osborn,77,Male,ENT
+825,329,2025-04-27,2,Normal,Recovered,Daniel Osborn,77,Male,ENT
+826,330,2024-10-19,8,Severe,Referral,Rodney Prince,76,Female,ENT
+827,330,2025-07-04,3,Severe,Recovered,Rodney Prince,76,Female,ENT
+828,330,2024-11-28,4,Mild,Recovered,Rodney Prince,76,Female,ENT
+829,330,2024-12-20,7,Mild,Referral,Rodney Prince,76,Female,ENT
+830,331,2025-05-07,9,Severe,Referral,William Henry,53,Male,PPT
+831,331,2025-02-23,2,Severe,Recovered,William Henry,53,Male,PPT
+832,332,2025-02-02,3,Mild,Recovered,Troy Huffman,36,Male,PPT
+833,333,2025-09-02,4,Mild,Recovered,Luis Huffman,43,Male,PPT
+834,333,2025-05-23,1,Severe,Recovered,Luis Huffman,43,Male,PPT
+835,333,2024-12-25,7,Normal,Referral,Luis Huffman,43,Male,PPT
+836,333,2025-05-25,2,Mild,Recovered,Luis Huffman,43,Male,PPT
+837,334,2025-01-11,5,Severe,Recovered,Tim Wang,20,Male,ENT
+838,334,2025-01-27,1,Severe,Recovered,Tim Wang,20,Male,ENT
+839,334,2025-05-24,3,Severe,Recovered,Tim Wang,20,Male,ENT
+840,334,2024-10-02,2,Severe,Recovered,Tim Wang,20,Male,ENT
+841,335,2024-10-25,1,Normal,Recovered,Tiffany Fuller DVM,36,Male,TB Focal Point
+842,336,2024-10-29,7,Severe,Referral,Anthony Scott,37,Male,ENT
+843,336,2025-07-04,5,Mild,Recovered,Anthony Scott,37,Male,ENT
+844,336,2025-09-25,1,Normal,Recovered,Anthony Scott,37,Male,ENT
+845,337,2024-11-22,6,Severe,Recovered,Andre Gomez,49,Female,PPT
+846,337,2025-04-07,5,Normal,Recovered,Andre Gomez,49,Female,PPT
+847,337,2025-09-17,3,Mild,Recovered,Andre Gomez,49,Female,PPT
+848,338,2025-03-04,7,Severe,Referral,Martha Lewis,24,Male,TB Focal Point
+849,338,2024-10-24,9,Mild,Referral,Martha Lewis,24,Male,TB Focal Point
+850,339,2024-10-12,9,Severe,Referral,Cameron Dominguez,69,Female,TB Focal Point
+851,339,2025-03-24,9,Severe,Referral,Cameron Dominguez,69,Female,TB Focal Point
+852,339,2025-03-05,2,Severe,Recovered,Cameron Dominguez,69,Female,TB Focal Point
+853,339,2025-04-02,3,Severe,Recovered,Cameron Dominguez,69,Female,TB Focal Point
+854,340,2024-12-02,7,Severe,Referral,Julie Flores,58,Male,ENT
+855,340,2025-05-29,5,Normal,Recovered,Julie Flores,58,Male,ENT
+856,341,2025-02-04,2,Severe,Recovered,Joshua Thornton,50,Female,PPT
+857,341,2025-04-27,3,Severe,Recovered,Joshua Thornton,50,Female,PPT
+858,342,2025-04-11,6,Normal,Recovered,Scott Stark,57,Female,ENT
+859,342,2025-03-22,7,Normal,Referral,Scott Stark,57,Female,ENT
+860,342,2024-12-18,9,Normal,Referral,Scott Stark,57,Female,ENT
+861,342,2025-04-02,1,Normal,Recovered,Scott Stark,57,Female,ENT
+862,343,2025-04-06,7,Normal,Referral,William Murphy,56,Female,TB Focal Point
+863,343,2025-07-29,8,Normal,Referral,William Murphy,56,Female,TB Focal Point
+864,343,2025-07-12,3,Severe,Recovered,William Murphy,56,Female,TB Focal Point
+865,343,2025-03-15,4,Severe,Recovered,William Murphy,56,Female,TB Focal Point
+866,344,2024-11-04,6,Mild,Recovered,Carla Moore,35,Male,ENT
+867,344,2025-01-12,7,Severe,Referral,Carla Moore,35,Male,ENT
+868,344,2025-02-26,4,Severe,Recovered,Carla Moore,35,Male,ENT
+869,345,2025-03-14,8,Normal,Referral,Juan Vargas,57,Male,ENT
+870,345,2024-12-15,5,Normal,Recovered,Juan Vargas,57,Male,ENT
+871,346,2025-09-21,1,Severe,Recovered,Laura Garcia,18,Female,PPT
+872,346,2025-03-05,4,Mild,Recovered,Laura Garcia,18,Female,PPT
+873,346,2025-06-11,3,Normal,Recovered,Laura Garcia,18,Female,PPT
+874,347,2025-05-21,9,Severe,Referral,Joseph Morgan,28,Male,PPT
+875,347,2025-05-31,8,Severe,Referral,Joseph Morgan,28,Male,PPT
+876,348,2025-04-02,1,Mild,Recovered,Jennifer Copeland,45,Female,TB Focal Point
+877,348,2024-11-28,6,Mild,Recovered,Jennifer Copeland,45,Female,TB Focal Point
+878,348,2024-11-21,9,Normal,Referral,Jennifer Copeland,45,Female,TB Focal Point
+879,349,2025-09-21,7,Mild,Referral,Tara Brown,74,Male,ENT
+880,350,2025-07-07,4,Severe,Recovered,Willie Peters,42,Female,ENT
+881,350,2025-07-31,1,Severe,Recovered,Willie Peters,42,Female,ENT
+882,351,2025-06-02,2,Mild,Recovered,Paul Ford,67,Female,ENT
+883,351,2025-03-08,5,Mild,Recovered,Paul Ford,67,Female,ENT
+884,351,2025-01-15,5,Mild,Recovered,Paul Ford,67,Female,ENT
+885,351,2024-11-23,8,Mild,Referral,Paul Ford,67,Female,ENT
+886,352,2024-12-22,6,Normal,Recovered,Julie Harris,40,Male,TB Focal Point
+887,353,2025-04-11,8,Mild,Referral,Marissa Anderson,48,Female,TB Focal Point
+888,353,2025-08-18,2,Normal,Recovered,Marissa Anderson,48,Female,TB Focal Point
+889,353,2025-03-07,3,Severe,Recovered,Marissa Anderson,48,Female,TB Focal Point
+890,353,2024-10-26,6,Mild,Recovered,Marissa Anderson,48,Female,TB Focal Point
+891,354,2025-06-07,3,Normal,Recovered,Frederick Edwards,47,Male,PPT
+892,354,2025-04-25,6,Mild,Recovered,Frederick Edwards,47,Male,PPT
+893,354,2024-10-17,6,Severe,Recovered,Frederick Edwards,47,Male,PPT
+894,355,2024-12-08,2,Severe,Recovered,Luis Brown,59,Female,PPT
+895,356,2025-07-10,7,Severe,Referral,Dylan Phillips,52,Female,PPT
+896,356,2025-07-16,2,Mild,Recovered,Dylan Phillips,52,Female,PPT
+897,357,2025-01-04,6,Mild,Recovered,Taylor Morales,24,Male,ENT
+898,357,2024-12-30,1,Normal,Recovered,Taylor Morales,24,Male,ENT
+899,357,2024-12-27,3,Severe,Recovered,Taylor Morales,24,Male,ENT
+900,358,2025-08-13,2,Mild,Recovered,Richard Porter,77,Male,ENT
+901,359,2025-09-30,7,Severe,Referral,Rachel Smith,33,Male,PPT
+902,359,2025-08-18,4,Severe,Recovered,Rachel Smith,33,Male,PPT
+903,359,2025-03-26,8,Normal,Referral,Rachel Smith,33,Male,PPT
+904,359,2024-11-20,6,Normal,Recovered,Rachel Smith,33,Male,PPT
+905,360,2025-02-27,4,Normal,Recovered,Victor Jackson,43,Female,ENT
+906,360,2025-05-24,5,Normal,Recovered,Victor Jackson,43,Female,ENT
+907,361,2025-07-11,9,Severe,Referral,Billy James,65,Male,PPT
+908,361,2025-06-15,7,Normal,Referral,Billy James,65,Male,PPT
+909,361,2025-07-06,9,Normal,Referral,Billy James,65,Male,PPT
+910,362,2025-04-06,7,Normal,Referral,Marc Kelley,74,Female,TB Focal Point
+911,362,2025-09-29,1,Normal,Recovered,Marc Kelley,74,Female,TB Focal Point
+912,362,2025-07-21,8,Severe,Referral,Marc Kelley,74,Female,TB Focal Point
+913,362,2025-06-28,4,Normal,Recovered,Marc Kelley,74,Female,TB Focal Point
+914,363,2024-12-04,3,Severe,Recovered,Brittany Clark,69,Female,PPT
+915,363,2025-06-23,7,Mild,Referral,Brittany Clark,69,Female,PPT
+916,363,2024-11-13,3,Severe,Recovered,Brittany Clark,69,Female,PPT
+917,363,2025-07-27,8,Severe,Referral,Brittany Clark,69,Female,PPT
+918,364,2025-05-12,6,Normal,Recovered,Michael Moreno,77,Male,TB Focal Point
+919,364,2024-11-02,5,Mild,Recovered,Michael Moreno,77,Male,TB Focal Point
+920,365,2025-03-02,4,Mild,Recovered,Susan Scott,66,Male,ENT
+921,366,2025-01-04,8,Mild,Referral,David Thomas,19,Female,PPT
+922,366,2024-10-17,8,Mild,Referral,David Thomas,19,Female,PPT
+923,366,2024-10-04,1,Severe,Recovered,David Thomas,19,Female,PPT
+924,366,2025-07-30,9,Mild,Referral,David Thomas,19,Female,PPT
+925,367,2024-11-25,5,Severe,Recovered,Jerry King,18,Female,ENT
+926,368,2024-12-19,4,Severe,Recovered,Vincent Townsend DDS,65,Male,TB Focal Point
+927,368,2025-09-22,6,Severe,Recovered,Vincent Townsend DDS,65,Male,TB Focal Point
+928,369,2024-12-19,6,Mild,Recovered,Juan Crawford,79,Male,TB Focal Point
+929,369,2024-12-20,2,Normal,Recovered,Juan Crawford,79,Male,TB Focal Point
+930,369,2025-04-26,8,Normal,Referral,Juan Crawford,79,Male,TB Focal Point
+931,370,2025-03-31,7,Mild,Referral,Sara Perkins,29,Male,TB Focal Point
+932,370,2024-12-31,1,Normal,Recovered,Sara Perkins,29,Male,TB Focal Point
+933,370,2025-05-14,5,Normal,Recovered,Sara Perkins,29,Male,TB Focal Point
+934,370,2025-03-27,6,Severe,Recovered,Sara Perkins,29,Male,TB Focal Point
+935,371,2025-08-20,4,Severe,Recovered,Jennifer Whitaker,22,Male,ENT
+936,371,2025-07-09,2,Mild,Recovered,Jennifer Whitaker,22,Male,ENT
+937,371,2025-01-04,4,Mild,Recovered,Jennifer Whitaker,22,Male,ENT
+938,372,2025-02-19,1,Normal,Recovered,Veronica Castillo,54,Male,ENT
+939,372,2024-11-02,7,Severe,Referral,Veronica Castillo,54,Male,ENT
+940,373,2025-03-27,2,Mild,Recovered,Blake Gonzalez,49,Female,ENT
+941,373,2025-05-31,2,Mild,Recovered,Blake Gonzalez,49,Female,ENT
+942,373,2025-05-21,9,Mild,Referral,Blake Gonzalez,49,Female,ENT
+943,373,2025-02-10,5,Mild,Recovered,Blake Gonzalez,49,Female,ENT
+944,374,2024-11-27,2,Mild,Recovered,Lori Henry DVM,76,Female,ENT
+945,374,2025-08-05,9,Mild,Referral,Lori Henry DVM,76,Female,ENT
+946,375,2025-03-07,9,Normal,Referral,Allison Young,72,Female,TB Focal Point
+947,375,2025-04-05,1,Severe,Recovered,Allison Young,72,Female,TB Focal Point
+948,375,2024-12-21,3,Severe,Recovered,Allison Young,72,Female,TB Focal Point
+949,376,2025-04-12,4,Mild,Recovered,James Baker,26,Female,TB Focal Point
+950,376,2025-07-12,7,Severe,Referral,James Baker,26,Female,TB Focal Point
+951,376,2025-08-23,4,Severe,Recovered,James Baker,26,Female,TB Focal Point
+952,377,2025-07-29,2,Severe,Recovered,Erika Brown,58,Male,PPT
+953,377,2025-07-28,7,Mild,Referral,Erika Brown,58,Male,PPT
+954,378,2025-05-30,6,Mild,Recovered,Theresa Little,52,Male,PPT
+955,378,2025-08-09,3,Severe,Recovered,Theresa Little,52,Male,PPT
+956,379,2025-08-06,6,Severe,Recovered,Robert Calderon,36,Male,ENT
+957,379,2024-10-24,6,Mild,Recovered,Robert Calderon,36,Male,ENT
+958,379,2025-09-01,5,Normal,Recovered,Robert Calderon,36,Male,ENT
+959,380,2025-10-01,4,Severe,Recovered,William Mcintyre,65,Female,TB Focal Point
+960,380,2024-10-29,1,Normal,Recovered,William Mcintyre,65,Female,TB Focal Point
+961,381,2025-05-26,6,Severe,Recovered,David Carpenter,33,Female,TB Focal Point
+962,381,2025-07-12,2,Normal,Recovered,David Carpenter,33,Female,TB Focal Point
+963,382,2025-02-07,3,Normal,Recovered,Marc Richardson,20,Male,TB Focal Point
+964,383,2025-08-13,8,Normal,Referral,Bryan Brewer,37,Male,PPT
+965,383,2025-07-04,6,Mild,Recovered,Bryan Brewer,37,Male,PPT
+966,383,2024-10-04,3,Normal,Recovered,Bryan Brewer,37,Male,PPT
+967,384,2025-05-02,7,Normal,Referral,Eric James,41,Female,PPT
+968,384,2025-08-07,4,Normal,Recovered,Eric James,41,Female,PPT
+969,384,2024-10-12,9,Severe,Referral,Eric James,41,Female,PPT
+970,384,2025-04-03,5,Normal,Recovered,Eric James,41,Female,PPT
+971,385,2024-11-06,3,Severe,Recovered,John Trujillo,71,Female,TB Focal Point
+972,386,2025-09-05,2,Normal,Recovered,Troy Allen,73,Male,TB Focal Point
+973,386,2025-06-24,2,Normal,Recovered,Troy Allen,73,Male,TB Focal Point
+974,386,2025-04-10,3,Mild,Recovered,Troy Allen,73,Male,TB Focal Point
+975,386,2025-03-23,2,Severe,Recovered,Troy Allen,73,Male,TB Focal Point
+976,387,2024-12-16,4,Normal,Recovered,Zachary Scott,50,Male,TB Focal Point
+977,387,2025-01-04,2,Severe,Recovered,Zachary Scott,50,Male,TB Focal Point
+978,387,2025-04-20,9,Severe,Referral,Zachary Scott,50,Male,TB Focal Point
+979,387,2025-07-20,2,Mild,Recovered,Zachary Scott,50,Male,TB Focal Point
+980,388,2025-08-27,9,Mild,Referral,Brenda Kim,41,Female,PPT
+981,388,2024-11-07,6,Mild,Recovered,Brenda Kim,41,Female,PPT
+982,388,2024-11-03,1,Mild,Recovered,Brenda Kim,41,Female,PPT
+983,388,2025-05-21,4,Mild,Recovered,Brenda Kim,41,Female,PPT
+984,389,2025-04-01,1,Mild,Recovered,Kristen Lewis,69,Male,TB Focal Point
+985,390,2025-06-28,6,Mild,Recovered,Samantha Diaz,28,Male,TB Focal Point
+986,390,2025-06-09,4,Mild,Recovered,Samantha Diaz,28,Male,TB Focal Point
+987,391,2025-02-27,3,Normal,Recovered,Christopher Weaver,66,Male,ENT
+988,391,2025-02-18,3,Severe,Recovered,Christopher Weaver,66,Male,ENT
+989,391,2025-09-08,9,Mild,Referral,Christopher Weaver,66,Male,ENT
+990,391,2025-07-18,6,Mild,Recovered,Christopher Weaver,66,Male,ENT
+991,392,2025-02-04,9,Severe,Referral,Richard Fisher,25,Female,ENT
+992,392,2025-02-23,5,Normal,Recovered,Richard Fisher,25,Female,ENT
+993,392,2025-03-18,2,Severe,Recovered,Richard Fisher,25,Female,ENT
+994,392,2025-07-26,8,Severe,Referral,Richard Fisher,25,Female,ENT
+995,393,2025-04-11,5,Mild,Recovered,Rachel Rodgers,53,Female,PPT
+996,394,2025-03-15,2,Severe,Recovered,Ronnie Rose,55,Female,TB Focal Point
+997,394,2025-03-28,4,Severe,Recovered,Ronnie Rose,55,Female,TB Focal Point
+998,394,2024-11-24,9,Mild,Referral,Ronnie Rose,55,Female,TB Focal Point
+999,394,2025-04-28,4,Mild,Recovered,Ronnie Rose,55,Female,TB Focal Point
+1000,395,2025-01-30,4,Mild,Recovered,Paul Allen,57,Female,TB Focal Point
+1001,396,2025-07-12,2,Mild,Recovered,Jamie Hanson,37,Female,ENT
+1002,396,2025-01-24,6,Severe,Recovered,Jamie Hanson,37,Female,ENT
+1003,396,2025-02-18,2,Severe,Recovered,Jamie Hanson,37,Female,ENT
+1004,396,2025-05-19,7,Normal,Referral,Jamie Hanson,37,Female,ENT
+1005,397,2025-03-15,3,Normal,Recovered,Anthony Lyons,79,Female,PPT
+1006,397,2025-02-11,3,Severe,Recovered,Anthony Lyons,79,Female,PPT
+1007,397,2025-06-16,5,Normal,Recovered,Anthony Lyons,79,Female,PPT
+1008,397,2024-11-26,3,Severe,Recovered,Anthony Lyons,79,Female,PPT
+1009,398,2025-03-05,2,Normal,Recovered,Kendra Cunningham,52,Female,ENT
+1010,398,2024-10-19,9,Mild,Referral,Kendra Cunningham,52,Female,ENT
+1011,399,2025-07-20,2,Normal,Recovered,Erin Martin,65,Male,ENT
+1012,399,2025-08-17,2,Mild,Recovered,Erin Martin,65,Male,ENT
+1013,399,2024-11-05,8,Mild,Referral,Erin Martin,65,Male,ENT
+1014,399,2025-07-18,9,Mild,Referral,Erin Martin,65,Male,ENT
+1015,400,2025-04-23,7,Mild,Referral,Alexander Kaiser,79,Male,ENT
+1016,400,2025-04-18,3,Normal,Recovered,Alexander Kaiser,79,Male,ENT
+1017,400,2024-11-15,9,Severe,Referral,Alexander Kaiser,79,Male,ENT
+1018,400,2025-05-27,3,Mild,Recovered,Alexander Kaiser,79,Male,ENT
+1019,401,2024-10-15,5,Normal,Recovered,James Huber,42,Male,ENT
+1020,401,2025-01-15,9,Mild,Referral,James Huber,42,Male,ENT
+1021,401,2025-05-23,3,Normal,Recovered,James Huber,42,Male,ENT
+1022,402,2025-03-27,7,Normal,Referral,Alexis Marks,52,Male,TB Focal Point
+1023,403,2024-10-20,1,Normal,Recovered,Kristina Davis,42,Male,TB Focal Point
+1024,403,2025-07-02,4,Severe,Recovered,Kristina Davis,42,Male,TB Focal Point
+1025,403,2025-04-08,4,Normal,Recovered,Kristina Davis,42,Male,TB Focal Point
+1026,403,2025-03-16,7,Normal,Referral,Kristina Davis,42,Male,TB Focal Point
+1027,404,2024-12-26,8,Severe,Referral,Kathy Johnston,46,Male,ENT
+1028,404,2024-10-09,1,Severe,Recovered,Kathy Johnston,46,Male,ENT
+1029,405,2025-09-02,5,Normal,Recovered,Shawn Foster,35,Male,PPT
+1030,405,2024-10-26,7,Severe,Referral,Shawn Foster,35,Male,PPT
+1031,405,2025-07-02,4,Mild,Recovered,Shawn Foster,35,Male,PPT
+1032,406,2025-01-24,4,Mild,Recovered,Benjamin Banks,63,Female,PPT
+1033,406,2025-06-29,4,Severe,Recovered,Benjamin Banks,63,Female,PPT
+1034,407,2025-08-24,6,Severe,Recovered,Frank Jordan,35,Female,PPT
+1035,408,2025-02-09,7,Normal,Referral,Jonathan Rasmussen,19,Male,PPT
+1036,408,2025-08-02,2,Severe,Recovered,Jonathan Rasmussen,19,Male,PPT
+1037,408,2024-12-24,5,Normal,Recovered,Jonathan Rasmussen,19,Male,PPT
+1038,408,2024-12-10,4,Mild,Recovered,Jonathan Rasmussen,19,Male,PPT
+1039,409,2025-05-13,3,Severe,Recovered,Connie Lopez,71,Male,ENT
+1040,409,2024-11-13,7,Normal,Referral,Connie Lopez,71,Male,ENT
+1041,409,2025-02-03,6,Normal,Recovered,Connie Lopez,71,Male,ENT
+1042,409,2025-08-03,7,Mild,Referral,Connie Lopez,71,Male,ENT
+1043,410,2025-08-24,5,Severe,Recovered,Craig Molina,52,Female,TB Focal Point
+1044,410,2024-12-09,6,Mild,Recovered,Craig Molina,52,Female,TB Focal Point
+1045,410,2025-01-03,5,Normal,Recovered,Craig Molina,52,Female,TB Focal Point
+1046,410,2025-09-25,7,Normal,Referral,Craig Molina,52,Female,TB Focal Point
+1047,411,2025-01-28,2,Severe,Recovered,David Davis,33,Male,PPT
+1048,411,2024-11-29,5,Normal,Recovered,David Davis,33,Male,PPT
+1049,412,2024-12-11,6,Severe,Recovered,Christina Gomez,78,Male,ENT
+1050,413,2025-03-08,6,Mild,Recovered,Lisa Smith,58,Female,PPT
+1051,413,2024-11-22,5,Severe,Recovered,Lisa Smith,58,Female,PPT
+1052,414,2025-02-06,7,Severe,Referral,Dr. Kristen Garner,53,Male,PPT
+1053,414,2025-02-14,8,Normal,Referral,Dr. Kristen Garner,53,Male,PPT
+1054,415,2025-04-15,7,Normal,Referral,Alexander Nichols,50,Female,ENT
+1055,415,2025-06-06,5,Severe,Recovered,Alexander Nichols,50,Female,ENT
+1056,416,2025-01-12,1,Normal,Recovered,Andrea Arroyo,21,Male,TB Focal Point
+1057,417,2024-11-18,5,Normal,Recovered,Robert Owens,50,Female,TB Focal Point
+1058,417,2025-04-26,2,Normal,Recovered,Robert Owens,50,Female,TB Focal Point
+1059,417,2024-11-25,5,Severe,Recovered,Robert Owens,50,Female,TB Focal Point
+1060,418,2025-01-22,5,Normal,Recovered,John James,31,Female,ENT
+1061,418,2025-07-22,2,Severe,Recovered,John James,31,Female,ENT
+1062,418,2025-05-28,5,Normal,Recovered,John James,31,Female,ENT
+1063,418,2024-12-12,4,Mild,Recovered,John James,31,Female,ENT
+1064,419,2024-10-27,1,Normal,Recovered,Henry Bishop,38,Female,TB Focal Point
+1065,419,2024-12-15,3,Normal,Recovered,Henry Bishop,38,Female,TB Focal Point
+1066,419,2025-08-02,1,Severe,Recovered,Henry Bishop,38,Female,TB Focal Point
+1067,420,2025-06-20,5,Severe,Recovered,Ashley Soto,65,Male,ENT
+1068,420,2025-04-27,4,Normal,Recovered,Ashley Soto,65,Male,ENT
+1069,420,2025-07-03,7,Mild,Referral,Ashley Soto,65,Male,ENT
+1070,421,2025-03-14,5,Normal,Recovered,Kenneth Lewis,37,Female,ENT
+1071,422,2025-08-08,4,Normal,Recovered,Holly Henry,73,Male,ENT
+1072,422,2024-12-20,2,Mild,Recovered,Holly Henry,73,Male,ENT
+1073,423,2024-12-29,4,Severe,Recovered,Brittany Larsen,25,Male,TB Focal Point
+1074,423,2025-04-12,2,Normal,Recovered,Brittany Larsen,25,Male,TB Focal Point
+1075,423,2025-01-22,8,Severe,Referral,Brittany Larsen,25,Male,TB Focal Point
+1076,424,2025-01-01,3,Severe,Recovered,Hannah Gates,24,Male,ENT
+1077,424,2025-07-27,9,Mild,Referral,Hannah Gates,24,Male,ENT
+1078,425,2025-01-18,4,Mild,Recovered,James Boone,20,Male,PPT
+1079,426,2025-03-15,6,Severe,Recovered,Spencer Peters,34,Female,TB Focal Point
+1080,426,2025-06-23,5,Normal,Recovered,Spencer Peters,34,Female,TB Focal Point
+1081,426,2025-04-15,1,Severe,Recovered,Spencer Peters,34,Female,TB Focal Point
+1082,427,2024-12-10,9,Normal,Referral,Sara Martin,50,Female,TB Focal Point
+1083,427,2025-04-12,1,Normal,Recovered,Sara Martin,50,Female,TB Focal Point
+1084,428,2025-09-28,8,Mild,Referral,Joseph Mcfarland,65,Male,TB Focal Point
+1085,428,2025-08-17,9,Normal,Referral,Joseph Mcfarland,65,Male,TB Focal Point
+1086,429,2025-09-21,9,Normal,Referral,Lindsay Patterson,29,Male,TB Focal Point
+1087,429,2025-03-25,1,Severe,Recovered,Lindsay Patterson,29,Male,TB Focal Point
+1088,430,2025-04-29,2,Mild,Recovered,Nicholas Rivera,76,Female,PPT
+1089,430,2025-08-16,1,Normal,Recovered,Nicholas Rivera,76,Female,PPT
+1090,430,2024-11-20,2,Normal,Recovered,Nicholas Rivera,76,Female,PPT
+1091,431,2025-03-11,8,Mild,Referral,Cheryl Fuller,68,Male,TB Focal Point
+1092,431,2025-02-14,5,Severe,Recovered,Cheryl Fuller,68,Male,TB Focal Point
+1093,431,2025-04-05,7,Mild,Referral,Cheryl Fuller,68,Male,TB Focal Point
+1094,432,2025-03-20,2,Mild,Recovered,Pamela Nixon,39,Female,TB Focal Point
+1095,432,2025-09-06,8,Normal,Referral,Pamela Nixon,39,Female,TB Focal Point
+1096,433,2024-11-08,6,Normal,Recovered,Jonathan Diaz,72,Male,ENT
+1097,433,2024-11-27,8,Severe,Referral,Jonathan Diaz,72,Male,ENT
+1098,434,2025-07-21,1,Normal,Recovered,Max Rivas,39,Male,TB Focal Point
+1099,434,2024-11-22,1,Normal,Recovered,Max Rivas,39,Male,TB Focal Point
+1100,434,2024-11-08,7,Mild,Referral,Max Rivas,39,Male,TB Focal Point
+1101,434,2025-03-11,8,Normal,Referral,Max Rivas,39,Male,TB Focal Point
+1102,435,2025-01-11,3,Severe,Recovered,Sandra Evans,63,Female,PPT
+1103,435,2025-06-07,5,Mild,Recovered,Sandra Evans,63,Female,PPT
+1104,435,2025-04-08,1,Severe,Recovered,Sandra Evans,63,Female,PPT
+1105,436,2024-12-24,7,Mild,Referral,Haley Ramirez,47,Male,PPT
+1106,437,2025-04-27,5,Normal,Recovered,Amber Middleton,55,Female,PPT
+1107,437,2025-02-04,8,Mild,Referral,Amber Middleton,55,Female,PPT
+1108,437,2024-11-26,8,Mild,Referral,Amber Middleton,55,Female,PPT
+1109,437,2025-03-20,9,Normal,Referral,Amber Middleton,55,Female,PPT
+1110,438,2025-02-19,7,Normal,Referral,Derek Carter,55,Male,PPT
+1111,438,2025-03-29,1,Severe,Recovered,Derek Carter,55,Male,PPT
+1112,438,2025-05-07,3,Severe,Recovered,Derek Carter,55,Male,PPT
+1113,438,2025-08-19,8,Normal,Referral,Derek Carter,55,Male,PPT
+1114,439,2025-09-01,3,Normal,Recovered,John Cooper,62,Male,TB Focal Point
+1115,439,2025-01-08,8,Normal,Referral,John Cooper,62,Male,TB Focal Point
+1116,439,2025-03-02,1,Mild,Recovered,John Cooper,62,Male,TB Focal Point
+1117,439,2025-09-30,5,Mild,Recovered,John Cooper,62,Male,TB Focal Point
+1118,440,2025-03-16,4,Mild,Recovered,Sharon Hart,68,Male,TB Focal Point
+1119,441,2025-01-24,5,Normal,Recovered,Kathleen Wilson,71,Female,PPT
+1120,441,2025-08-26,8,Severe,Referral,Kathleen Wilson,71,Female,PPT
+1121,442,2024-12-19,4,Normal,Recovered,Phillip Jenkins,25,Male,PPT
+1122,442,2025-07-01,4,Mild,Recovered,Phillip Jenkins,25,Male,PPT
+1123,443,2025-02-08,3,Mild,Recovered,Terri Stanley,44,Male,TB Focal Point
+1124,444,2025-07-29,7,Normal,Referral,Sydney Johnson,44,Male,PPT
+1125,444,2025-04-04,3,Normal,Recovered,Sydney Johnson,44,Male,PPT
+1126,444,2025-06-06,3,Mild,Recovered,Sydney Johnson,44,Male,PPT
+1127,445,2025-08-07,5,Mild,Recovered,Donald Crosby,51,Male,ENT
+1128,445,2025-05-31,5,Mild,Recovered,Donald Crosby,51,Male,ENT
+1129,445,2025-01-22,6,Normal,Recovered,Donald Crosby,51,Male,ENT
+1130,446,2024-12-22,8,Mild,Referral,Grant Sanchez,38,Female,PPT
+1131,447,2025-02-09,6,Mild,Recovered,Belinda Guzman,47,Female,PPT
+1132,447,2024-10-28,1,Severe,Recovered,Belinda Guzman,47,Female,PPT
+1133,448,2024-10-02,8,Normal,Referral,Kenneth Lamb,50,Male,ENT
+1134,449,2025-02-15,8,Severe,Referral,Todd Stuart,45,Female,ENT
+1135,449,2025-01-19,9,Severe,Referral,Todd Stuart,45,Female,ENT
+1136,449,2025-01-04,9,Mild,Referral,Todd Stuart,45,Female,ENT
+1137,449,2025-03-04,2,Normal,Recovered,Todd Stuart,45,Female,ENT
+1138,450,2025-02-11,2,Mild,Recovered,Maurice Duran,64,Male,TB Focal Point
+1139,450,2025-09-26,3,Normal,Recovered,Maurice Duran,64,Male,TB Focal Point
+1140,450,2025-05-07,1,Severe,Recovered,Maurice Duran,64,Male,TB Focal Point
+1141,451,2025-06-14,4,Normal,Recovered,Clarence Lewis,50,Male,TB Focal Point
+1142,452,2025-05-30,4,Mild,Recovered,Mrs. Judy Reid,22,Male,ENT
+1143,452,2025-01-26,9,Mild,Referral,Mrs. Judy Reid,22,Male,ENT
+1144,452,2025-09-03,9,Mild,Referral,Mrs. Judy Reid,22,Male,ENT
+1145,452,2025-01-16,9,Normal,Referral,Mrs. Judy Reid,22,Male,ENT
+1146,453,2025-06-29,7,Severe,Referral,Sylvia Farley,77,Female,ENT
+1147,453,2025-02-16,2,Severe,Recovered,Sylvia Farley,77,Female,ENT
+1148,454,2025-01-10,5,Normal,Recovered,Denise Ayers,78,Female,TB Focal Point
+1149,455,2024-10-20,4,Mild,Recovered,Katherine Dickson,65,Female,PPT
+1150,455,2025-04-08,8,Severe,Referral,Katherine Dickson,65,Female,PPT
+1151,456,2025-05-31,2,Mild,Recovered,Dr. Natalie Mathis MD,36,Female,ENT
+1152,457,2025-04-09,6,Normal,Recovered,Erika Mckenzie MD,21,Female,TB Focal Point
+1153,457,2024-12-03,5,Mild,Recovered,Erika Mckenzie MD,21,Female,TB Focal Point
+1154,458,2024-12-12,2,Severe,Recovered,Caroline Ramirez,52,Female,PPT
+1155,459,2025-06-19,1,Severe,Recovered,April Newton,66,Female,ENT
+1156,459,2025-02-01,8,Mild,Referral,April Newton,66,Female,ENT
+1157,459,2024-12-20,2,Normal,Recovered,April Newton,66,Female,ENT
+1158,460,2025-03-07,7,Mild,Referral,Jared Johnson,34,Female,PPT
+1159,461,2024-12-01,9,Normal,Referral,Richard Glover,61,Female,TB Focal Point
+1160,461,2024-11-17,9,Mild,Referral,Richard Glover,61,Female,TB Focal Point
+1161,461,2025-04-16,8,Severe,Referral,Richard Glover,61,Female,TB Focal Point
+1162,461,2025-01-09,9,Normal,Referral,Richard Glover,61,Female,TB Focal Point
+1163,462,2025-02-22,2,Normal,Recovered,Tanya Hatfield,45,Male,ENT
+1164,462,2025-04-04,6,Normal,Recovered,Tanya Hatfield,45,Male,ENT
+1165,462,2025-07-24,4,Severe,Recovered,Tanya Hatfield,45,Male,ENT
+1166,463,2024-10-14,4,Mild,Recovered,April Buchanan,47,Female,PPT
+1167,463,2025-06-27,5,Severe,Recovered,April Buchanan,47,Female,PPT
+1168,464,2024-11-13,3,Normal,Recovered,Rita Potts,46,Female,ENT
+1169,464,2025-03-31,1,Mild,Recovered,Rita Potts,46,Female,ENT
+1170,465,2025-07-01,8,Severe,Referral,Katherine Rose,63,Female,PPT
+1171,465,2025-04-04,5,Normal,Recovered,Katherine Rose,63,Female,PPT
+1172,465,2025-03-10,3,Normal,Recovered,Katherine Rose,63,Female,PPT
+1173,466,2025-06-30,7,Severe,Referral,Lee Vasquez,70,Female,TB Focal Point
+1174,466,2025-03-13,7,Severe,Referral,Lee Vasquez,70,Female,TB Focal Point
+1175,466,2025-02-24,1,Severe,Recovered,Lee Vasquez,70,Female,TB Focal Point
+1176,466,2024-11-02,9,Normal,Referral,Lee Vasquez,70,Female,TB Focal Point
+1177,467,2024-12-18,2,Severe,Recovered,Logan Mcmillan,23,Female,TB Focal Point
+1178,467,2025-04-16,5,Normal,Recovered,Logan Mcmillan,23,Female,TB Focal Point
+1179,467,2024-11-05,5,Severe,Recovered,Logan Mcmillan,23,Female,TB Focal Point
+1180,467,2024-10-05,8,Normal,Referral,Logan Mcmillan,23,Female,TB Focal Point
+1181,468,2025-08-27,8,Normal,Referral,Rachel Olsen,52,Female,ENT
+1182,468,2024-11-02,7,Mild,Referral,Rachel Olsen,52,Female,ENT
+1183,468,2025-09-23,7,Severe,Referral,Rachel Olsen,52,Female,ENT
+1184,468,2025-04-25,6,Severe,Recovered,Rachel Olsen,52,Female,ENT
+1185,469,2025-07-13,6,Normal,Recovered,Daniel Austin,77,Female,PPT
+1186,469,2025-05-13,9,Normal,Referral,Daniel Austin,77,Female,PPT
+1187,470,2025-07-27,6,Normal,Recovered,Leslie Parker,58,Female,ENT
+1188,470,2025-07-18,2,Mild,Recovered,Leslie Parker,58,Female,ENT
+1189,470,2025-02-25,2,Mild,Recovered,Leslie Parker,58,Female,ENT
+1190,471,2024-11-15,5,Normal,Recovered,Richard Glenn,54,Female,ENT
+1191,472,2025-04-12,4,Severe,Recovered,Stephanie Franco,41,Female,PPT
+1192,472,2025-04-20,2,Severe,Recovered,Stephanie Franco,41,Female,PPT
+1193,472,2025-09-09,3,Mild,Recovered,Stephanie Franco,41,Female,PPT
+1194,472,2024-10-25,7,Mild,Referral,Stephanie Franco,41,Female,PPT
+1195,473,2025-03-11,8,Normal,Referral,Samantha Perez,46,Female,PPT
+1196,473,2024-10-27,6,Severe,Recovered,Samantha Perez,46,Female,PPT
+1197,474,2025-07-28,5,Normal,Recovered,Roberto Reyes,66,Male,PPT
+1198,474,2025-05-08,1,Mild,Recovered,Roberto Reyes,66,Male,PPT
+1199,474,2025-04-22,8,Severe,Referral,Roberto Reyes,66,Male,PPT
+1200,475,2025-01-09,3,Severe,Recovered,Tammy Daugherty,63,Male,TB Focal Point
+1201,475,2025-10-01,6,Mild,Recovered,Tammy Daugherty,63,Male,TB Focal Point
+1202,475,2024-11-02,3,Normal,Recovered,Tammy Daugherty,63,Male,TB Focal Point
+1203,476,2025-06-17,7,Normal,Referral,Sonya Richards,70,Female,ENT
+1204,476,2024-11-11,7,Severe,Referral,Sonya Richards,70,Female,ENT
+1205,476,2025-05-29,9,Mild,Referral,Sonya Richards,70,Female,ENT
+1206,477,2024-12-22,5,Severe,Recovered,Laura Sanchez,48,Female,ENT
+1207,477,2025-05-29,8,Mild,Referral,Laura Sanchez,48,Female,ENT
+1208,477,2025-02-16,8,Normal,Referral,Laura Sanchez,48,Female,ENT
+1209,477,2025-05-24,1,Mild,Recovered,Laura Sanchez,48,Female,ENT
+1210,478,2025-01-25,5,Normal,Recovered,Angela Clark,52,Male,TB Focal Point
+1211,478,2025-05-31,3,Mild,Recovered,Angela Clark,52,Male,TB Focal Point
+1212,479,2024-12-06,1,Severe,Recovered,Manuel Stone,77,Female,PPT
+1213,480,2025-09-18,4,Normal,Recovered,Tonya Patterson,50,Male,TB Focal Point
+1214,481,2025-08-17,8,Severe,Referral,Sarah Holmes,69,Male,TB Focal Point
+1215,482,2025-02-16,3,Severe,Recovered,Alisha Wilson,78,Male,TB Focal Point
+1216,482,2025-04-27,2,Normal,Recovered,Alisha Wilson,78,Male,TB Focal Point
+1217,483,2025-06-24,9,Normal,Referral,Angel Kane,38,Male,ENT
+1218,484,2025-01-23,5,Severe,Recovered,Rachel Huffman,49,Male,TB Focal Point
+1219,484,2024-11-27,7,Severe,Referral,Rachel Huffman,49,Male,TB Focal Point
+1220,484,2025-07-17,2,Severe,Recovered,Rachel Huffman,49,Male,TB Focal Point
+1221,484,2025-04-30,9,Severe,Referral,Rachel Huffman,49,Male,TB Focal Point
+1222,485,2025-01-01,9,Normal,Referral,Kayla Rodriguez,40,Female,ENT
+1223,486,2025-06-17,4,Normal,Recovered,Daniel Simmons,50,Male,ENT
+1224,487,2025-05-08,4,Severe,Recovered,Ryan Jackson,20,Female,ENT
+1225,488,2025-04-07,6,Mild,Recovered,Tammy Jimenez,35,Female,PPT
+1226,489,2024-12-13,6,Mild,Recovered,William Gonzalez,42,Male,ENT
+1227,489,2024-11-04,1,Normal,Recovered,William Gonzalez,42,Male,ENT
+1228,489,2025-03-05,9,Severe,Referral,William Gonzalez,42,Male,ENT
+1229,489,2025-01-03,2,Severe,Recovered,William Gonzalez,42,Male,ENT
+1230,490,2025-04-14,5,Normal,Recovered,Katrina Massey,59,Male,ENT
+1231,491,2025-01-23,9,Mild,Referral,Steven Brown,48,Female,PPT
+1232,492,2025-04-01,4,Mild,Recovered,Mr. James Hayes DDS,71,Male,ENT
+1233,492,2024-12-22,3,Mild,Recovered,Mr. James Hayes DDS,71,Male,ENT
+1234,492,2025-03-29,7,Normal,Referral,Mr. James Hayes DDS,71,Male,ENT
+1235,493,2025-05-18,6,Mild,Recovered,Justin Mcclain,75,Male,TB Focal Point
+1236,493,2025-02-20,8,Normal,Referral,Justin Mcclain,75,Male,TB Focal Point
+1237,493,2024-12-28,3,Normal,Recovered,Justin Mcclain,75,Male,TB Focal Point
+1238,493,2024-11-17,5,Severe,Recovered,Justin Mcclain,75,Male,TB Focal Point
+1239,494,2025-05-29,4,Mild,Recovered,Amber Rogers,20,Female,TB Focal Point
+1240,494,2025-05-26,4,Normal,Recovered,Amber Rogers,20,Female,TB Focal Point
+1241,494,2024-12-29,4,Mild,Recovered,Amber Rogers,20,Female,TB Focal Point
+1242,494,2025-07-10,8,Mild,Referral,Amber Rogers,20,Female,TB Focal Point
+1243,495,2025-08-20,6,Severe,Recovered,Alexander Lambert,57,Female,ENT
+1244,495,2025-02-22,3,Mild,Recovered,Alexander Lambert,57,Female,ENT
+1245,495,2025-09-10,5,Severe,Recovered,Alexander Lambert,57,Female,ENT
+1246,496,2025-07-11,6,Normal,Recovered,Kari Stone,63,Male,PPT
+1247,496,2024-12-16,5,Mild,Recovered,Kari Stone,63,Male,PPT
+1248,496,2025-06-18,6,Normal,Recovered,Kari Stone,63,Male,PPT
+1249,497,2025-09-23,8,Mild,Referral,Christopher Jones,41,Female,TB Focal Point
+1250,498,2025-01-21,7,Normal,Referral,Alexander Yang,67,Male,PPT
+1251,498,2025-09-11,5,Mild,Recovered,Alexander Yang,67,Male,PPT
+1252,498,2024-11-06,6,Mild,Recovered,Alexander Yang,67,Male,PPT
+1253,498,2024-11-12,4,Mild,Recovered,Alexander Yang,67,Male,PPT
+1254,499,2025-01-25,9,Mild,Referral,Edward Watson,49,Male,PPT
+1255,499,2025-04-12,4,Mild,Recovered,Edward Watson,49,Male,PPT
+1256,500,2025-08-26,1,Mild,Recovered,Katie Ellis,64,Male,TB Focal Point
+1257,500,2024-11-07,7,Mild,Referral,Katie Ellis,64,Male,TB Focal Point
+1258,500,2025-01-20,7,Mild,Referral,Katie Ellis,64,Male,TB Focal Point
+1259,500,2025-04-20,4,Mild,Recovered,Katie Ellis,64,Male,TB Focal Point
